@@ -28,7 +28,7 @@
 <https://w3id.org/jp-naaa/小国2021-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154509/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf#page=3> ;
     schema:name "令和3年度 小学校国語 [1]の調査問題（PDF）" ;
     schema:pagination "小国-1～小国-6" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -36,7 +36,7 @@
 <https://w3id.org/jp-naaa/小国2021-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154510/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf#page=1> ;
     schema:name "令和3年度 小学校国語 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -44,7 +44,7 @@
 <https://w3id.org/jp-naaa/小国2021-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf#page=8> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154523/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf#page=8> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語 [1]の解説資料（PDF）" ;
     schema:pagination "12～17" ;
     schema:numberOfPages "6" .
@@ -52,7 +52,7 @@
 <https://w3id.org/jp-naaa/小国2021-01/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf#page=18> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011354/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf#page=18> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語 [1]の報告書（PDF）" ;
     schema:pagination "21～29" ;
     schema:numberOfPages "9" .
@@ -76,7 +76,7 @@
 <https://w3id.org/jp-naaa/小国2021-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf#page=9> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154509/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf#page=9> ;
     schema:name "令和3年度 小学校国語 [2]の調査問題（PDF）" ;
     schema:pagination "小国-7～小国-12" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -84,7 +84,7 @@
 <https://w3id.org/jp-naaa/小国2021-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154510/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf#page=1> ;
     schema:name "令和3年度 小学校国語 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -92,7 +92,7 @@
 <https://w3id.org/jp-naaa/小国2021-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf#page=14> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154523/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf#page=14> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語 [2]の解説資料（PDF）" ;
     schema:pagination "18～28" ;
     schema:numberOfPages "11" .
@@ -100,7 +100,7 @@
 <https://w3id.org/jp-naaa/小国2021-02/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf#page=27> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011354/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf#page=27> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語 [2]の報告書（PDF）" ;
     schema:pagination "30～41" ;
     schema:numberOfPages "12" .
@@ -124,7 +124,7 @@
 <https://w3id.org/jp-naaa/小国2021-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf#page=15> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154509/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf#page=15> ;
     schema:name "令和3年度 小学校国語 [3]の調査問題（PDF）" ;
     schema:pagination "小国-13～小国-18" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -132,7 +132,7 @@
 <https://w3id.org/jp-naaa/小国2021-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154510/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf#page=1> ;
     schema:name "令和3年度 小学校国語 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -140,7 +140,7 @@
 <https://w3id.org/jp-naaa/小国2021-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf#page=26> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154523/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf#page=26> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語 [3]の解説資料（PDF）" ;
     schema:pagination "30～40" ;
     schema:numberOfPages "11" .
@@ -148,7 +148,7 @@
 <https://w3id.org/jp-naaa/小国2021-03/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf#page=39> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011354/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf#page=39> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語 [3]の報告書（PDF）" ;
     schema:pagination "42～53" ;
     schema:numberOfPages "12" .
@@ -172,7 +172,7 @@
 <https://w3id.org/jp-naaa/小国2022-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf#page=4> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154226/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf#page=4> ;
     schema:name "令和4年度 小学校国語 [1]の調査問題（PDF）" ;
     schema:pagination "小国-1～小国-5" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "5" .
@@ -180,7 +180,7 @@
 <https://w3id.org/jp-naaa/小国2022-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154227/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf#page=1> ;
     schema:name "令和4年度 小学校国語 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -188,7 +188,7 @@
 <https://w3id.org/jp-naaa/小国2022-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf#page=8> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154235/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf#page=8> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校国語 [1]の解説資料（PDF）" ;
     schema:pagination "12～20" ;
     schema:numberOfPages "9" .
@@ -220,7 +220,7 @@
 <https://w3id.org/jp-naaa/小国2022-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf#page=10> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154226/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf#page=10> ;
     schema:name "令和4年度 小学校国語 [2]の調査問題（PDF）" ;
     schema:pagination "小国-7～小国-16" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "10" .
@@ -228,7 +228,7 @@
 <https://w3id.org/jp-naaa/小国2022-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154227/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf#page=1> ;
     schema:name "令和4年度 小学校国語 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -236,7 +236,7 @@
 <https://w3id.org/jp-naaa/小国2022-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf#page=17> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154235/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf#page=17> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校国語 [2]の解説資料（PDF）" ;
     schema:pagination "21～29" ;
     schema:numberOfPages "9" .
@@ -268,7 +268,7 @@
 <https://w3id.org/jp-naaa/小国2022-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf#page=20> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154226/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf#page=20> ;
     schema:name "令和4年度 小学校国語 [3]の調査問題（PDF）" ;
     schema:pagination "小国-17～小国-23" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "7" .
@@ -276,7 +276,7 @@
 <https://w3id.org/jp-naaa/小国2022-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154227/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf#page=1> ;
     schema:name "令和4年度 小学校国語 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -284,7 +284,7 @@
 <https://w3id.org/jp-naaa/小国2022-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf#page=26> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154235/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf#page=26> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校国語 [3]の解説資料（PDF）" ;
     schema:pagination "30～40" ;
     schema:numberOfPages "11" .
@@ -748,7 +748,7 @@
 <https://w3id.org/jp-naaa/小算2021-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154524/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=3> ;
     schema:name "令和3年度 小学校算数 [1]の調査問題（PDF）" ;
     schema:pagination "小算-1～小算-6" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -756,7 +756,7 @@
 <https://w3id.org/jp-naaa/小算2021-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154525/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和3年度 小学校算数 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -764,7 +764,7 @@
 <https://w3id.org/jp-naaa/小算2021-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=8> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154539/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=8> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [1]の解説資料（PDF）" ;
     schema:pagination "12～25" ;
     schema:numberOfPages "14" .
@@ -772,7 +772,7 @@
 <https://w3id.org/jp-naaa/小算2021-01/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=17> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011434/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=17> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [1]の報告書（PDF）" ;
     schema:pagination "20～37" ;
     schema:numberOfPages "18" .
@@ -796,7 +796,7 @@
 <https://w3id.org/jp-naaa/小算2021-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=9> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154524/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=9> ;
     schema:name "令和3年度 小学校算数 [2]の調査問題（PDF）" ;
     schema:pagination "小算-7～小算-10" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -804,7 +804,7 @@
 <https://w3id.org/jp-naaa/小算2021-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154525/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和3年度 小学校算数 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -812,7 +812,7 @@
 <https://w3id.org/jp-naaa/小算2021-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=22> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154539/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=22> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [2]の解説資料（PDF）" ;
     schema:pagination "26～35" ;
     schema:numberOfPages "10" .
@@ -820,7 +820,7 @@
 <https://w3id.org/jp-naaa/小算2021-02/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=35> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011434/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=35> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [2]の報告書（PDF）" ;
     schema:pagination "38～51" ;
     schema:numberOfPages "14" .
@@ -844,7 +844,7 @@
 <https://w3id.org/jp-naaa/小算2021-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=13> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154524/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=13> ;
     schema:name "令和3年度 小学校算数 [3]の調査問題（PDF）" ;
     schema:pagination "小算-11～小算-17" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "7" .
@@ -852,7 +852,7 @@
 <https://w3id.org/jp-naaa/小算2021-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154525/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和3年度 小学校算数 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -860,7 +860,7 @@
 <https://w3id.org/jp-naaa/小算2021-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=32> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154539/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=32> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [3]の解説資料（PDF）" ;
     schema:pagination "36～47" ;
     schema:numberOfPages "12" .
@@ -868,7 +868,7 @@
 <https://w3id.org/jp-naaa/小算2021-03/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=49> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011434/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=49> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [3]の報告書（PDF）" ;
     schema:pagination "52～67" ;
     schema:numberOfPages "16" .
@@ -892,7 +892,7 @@
 <https://w3id.org/jp-naaa/小算2021-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=22> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154524/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf#page=22> ;
     schema:name "令和3年度 小学校算数 [4]の調査問題（PDF）" ;
     schema:pagination "小算-20～小算-22" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -900,7 +900,7 @@
 <https://w3id.org/jp-naaa/小算2021-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154525/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和3年度 小学校算数 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -908,7 +908,7 @@
 <https://w3id.org/jp-naaa/小算2021-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=44> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154539/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf#page=44> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [4]の解説資料（PDF）" ;
     schema:pagination "48～57" ;
     schema:numberOfPages "10" .
@@ -916,7 +916,7 @@
 <https://w3id.org/jp-naaa/小算2021-04/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=65> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011434/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf#page=65> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数 [4]の報告書（PDF）" ;
     schema:pagination "68～77" ;
     schema:numberOfPages "10" .
@@ -940,7 +940,7 @@
 <https://w3id.org/jp-naaa/小算2022-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154246/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=1> ;
     schema:name "令和4年度 小学校算数 [1]の調査問題（PDF）" ;
     schema:pagination "小算--2～小算-5" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "8" .
@@ -948,7 +948,7 @@
 <https://w3id.org/jp-naaa/小算2022-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154247/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和4年度 小学校算数 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -956,7 +956,7 @@
 <https://w3id.org/jp-naaa/小算2022-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=8> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154259/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=8> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校算数 [1]の解説資料（PDF）" ;
     schema:pagination "12～21" ;
     schema:numberOfPages "10" .
@@ -988,7 +988,7 @@
 <https://w3id.org/jp-naaa/小算2022-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=10> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154246/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=10> ;
     schema:name "令和4年度 小学校算数 [2]の調査問題（PDF）" ;
     schema:pagination "小算-7～小算-10" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -996,7 +996,7 @@
 <https://w3id.org/jp-naaa/小算2022-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154247/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和4年度 小学校算数 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1004,7 +1004,7 @@
 <https://w3id.org/jp-naaa/小算2022-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=18> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154259/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=18> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校算数 [2]の解説資料（PDF）" ;
     schema:pagination "22～31" ;
     schema:numberOfPages "10" .
@@ -1036,7 +1036,7 @@
 <https://w3id.org/jp-naaa/小算2022-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=15> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154246/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=15> ;
     schema:name "令和4年度 小学校算数 [3]の調査問題（PDF）" ;
     schema:pagination "小算-12～小算-17" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -1044,7 +1044,7 @@
 <https://w3id.org/jp-naaa/小算2022-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154247/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和4年度 小学校算数 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1052,7 +1052,7 @@
 <https://w3id.org/jp-naaa/小算2022-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=28> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154259/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=28> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校算数 [3]の解説資料（PDF）" ;
     schema:pagination "32～45" ;
     schema:numberOfPages "14" .
@@ -1084,7 +1084,7 @@
 <https://w3id.org/jp-naaa/小算2022-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=22> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154246/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf#page=22> ;
     schema:name "令和4年度 小学校算数 [4]の調査問題（PDF）" ;
     schema:pagination "小算-19～小算-27" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "9" .
@@ -1092,7 +1092,7 @@
 <https://w3id.org/jp-naaa/小算2022-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154247/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf#page=1> ;
     schema:name "令和4年度 小学校算数 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1100,7 +1100,7 @@
 <https://w3id.org/jp-naaa/小算2022-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=42> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154259/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf#page=42> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校算数 [4]の解説資料（PDF）" ;
     schema:pagination "46～57" ;
     schema:numberOfPages "12" .
@@ -1756,7 +1756,7 @@
 <https://w3id.org/jp-naaa/小理2022-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=4> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154316/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=4> ;
     schema:name "令和4年度 小学校理科 [1]の調査問題（PDF）" ;
     schema:pagination "小理-1～小理-8" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "8" .
@@ -1764,7 +1764,7 @@
 <https://w3id.org/jp-naaa/小理2022-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154317/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
     schema:name "令和4年度 小学校理科 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1772,7 +1772,7 @@
 <https://w3id.org/jp-naaa/小理2022-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=10> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154332/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=10> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校理科 [1]の解説資料（PDF）" ;
     schema:pagination "14～27" ;
     schema:numberOfPages "14" .
@@ -1804,7 +1804,7 @@
 <https://w3id.org/jp-naaa/小理2022-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=12> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154316/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=12> ;
     schema:name "令和4年度 小学校理科 [2]の調査問題（PDF）" ;
     schema:pagination "小理-9～小理-13" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "5" .
@@ -1812,7 +1812,7 @@
 <https://w3id.org/jp-naaa/小理2022-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154317/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
     schema:name "令和4年度 小学校理科 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1820,7 +1820,7 @@
 <https://w3id.org/jp-naaa/小理2022-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=24> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154332/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=24> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校理科 [2]の解説資料（PDF）" ;
     schema:pagination "28～41" ;
     schema:numberOfPages "14" .
@@ -1852,7 +1852,7 @@
 <https://w3id.org/jp-naaa/小理2022-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=17> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154316/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=17> ;
     schema:name "令和4年度 小学校理科 [3]の調査問題（PDF）" ;
     schema:pagination "小理-14～小理-19" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -1860,7 +1860,7 @@
 <https://w3id.org/jp-naaa/小理2022-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154317/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
     schema:name "令和4年度 小学校理科 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1868,7 +1868,7 @@
 <https://w3id.org/jp-naaa/小理2022-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=38> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154332/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=38> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校理科 [3]の解説資料（PDF）" ;
     schema:pagination "42～54" ;
     schema:numberOfPages "13" .
@@ -1900,7 +1900,7 @@
 <https://w3id.org/jp-naaa/小理2022-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=23> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154316/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf#page=23> ;
     schema:name "令和4年度 小学校理科 [4]の調査問題（PDF）" ;
     schema:pagination "小理-20～小理-27" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "8" .
@@ -1908,7 +1908,7 @@
 <https://w3id.org/jp-naaa/小理2022-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154317/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf#page=1> ;
     schema:name "令和4年度 小学校理科 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -1916,7 +1916,7 @@
 <https://w3id.org/jp-naaa/小理2022-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=51> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154332/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf#page=51> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校理科 [4]の解説資料（PDF）" ;
     schema:pagination "55～68" ;
     schema:numberOfPages "14" .
@@ -2810,7 +2810,7 @@
 <https://w3id.org/jp-naaa/中国2021-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154541/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=3> ;
     schema:name "令和3年度 中学校国語 [1]の調査問題（PDF）" ;
     schema:pagination "中国-1～中国-4" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -2818,7 +2818,7 @@
 <https://w3id.org/jp-naaa/中国2021-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154542/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和3年度 中学校国語 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -2826,7 +2826,7 @@
 <https://w3id.org/jp-naaa/中国2021-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=8> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154559/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=8> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [1]の解説資料（PDF）" ;
     schema:pagination "12～17" ;
     schema:numberOfPages "6" .
@@ -2834,7 +2834,7 @@
 <https://w3id.org/jp-naaa/中国2021-01/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=16> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011518/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=16> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [1]の報告書（PDF）" ;
     schema:pagination "20～26" ;
     schema:numberOfPages "7" .
@@ -2858,7 +2858,7 @@
 <https://w3id.org/jp-naaa/中国2021-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=7> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154541/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=7> ;
     schema:name "令和3年度 中学校国語 [2]の調査問題（PDF）" ;
     schema:pagination "中国-5～中国-7" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -2866,7 +2866,7 @@
 <https://w3id.org/jp-naaa/中国2021-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154542/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和3年度 中学校国語 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -2874,7 +2874,7 @@
 <https://w3id.org/jp-naaa/中国2021-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=14> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154559/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=14> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [2]の解説資料（PDF）" ;
     schema:pagination "18～22" ;
     schema:numberOfPages "5" .
@@ -2882,7 +2882,7 @@
 <https://w3id.org/jp-naaa/中国2021-02/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=23> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011518/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=23> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [2]の報告書（PDF）" ;
     schema:pagination "27～31" ;
     schema:numberOfPages "5" .
@@ -2906,7 +2906,7 @@
 <https://w3id.org/jp-naaa/中国2021-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=11> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154541/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=11> ;
     schema:name "令和3年度 中学校国語 [3]の調査問題（PDF）" ;
     schema:pagination "中国-9～中国-14" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "6" .
@@ -2914,7 +2914,7 @@
 <https://w3id.org/jp-naaa/中国2021-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154542/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和3年度 中学校国語 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -2922,7 +2922,7 @@
 <https://w3id.org/jp-naaa/中国2021-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=19> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154559/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=19> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [3]の解説資料（PDF）" ;
     schema:pagination "23～30" ;
     schema:numberOfPages "8" .
@@ -2930,7 +2930,7 @@
 <https://w3id.org/jp-naaa/中国2021-03/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=28> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011518/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=28> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [3]の報告書（PDF）" ;
     schema:pagination "32～40" ;
     schema:numberOfPages "9" .
@@ -2954,7 +2954,7 @@
 <https://w3id.org/jp-naaa/中国2021-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=17> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154541/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf#page=17> ;
     schema:name "令和3年度 中学校国語 [4]の調査問題（PDF）" ;
     schema:pagination "中国-15～中国-19" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "5" .
@@ -2962,7 +2962,7 @@
 <https://w3id.org/jp-naaa/中国2021-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154542/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和3年度 中学校国語 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -2970,7 +2970,7 @@
 <https://w3id.org/jp-naaa/中国2021-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=27> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154559/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf#page=27> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [4]の解説資料（PDF）" ;
     schema:pagination "31～38" ;
     schema:numberOfPages "8" .
@@ -2978,7 +2978,7 @@
 <https://w3id.org/jp-naaa/中国2021-04/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=37> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011518/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf#page=37> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語 [4]の報告書（PDF）" ;
     schema:pagination "41～51" ;
     schema:numberOfPages "11" .
@@ -3002,7 +3002,7 @@
 <https://w3id.org/jp-naaa/中国2022-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154334/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=3> ;
     schema:name "令和4年度 中学校国語 [1]の調査問題（PDF）" ;
     schema:pagination "中国-1～中国-4" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -3010,7 +3010,7 @@
 <https://w3id.org/jp-naaa/中国2022-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154336/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和4年度 中学校国語 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3018,7 +3018,7 @@
 <https://w3id.org/jp-naaa/中国2022-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=9> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154350/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=9> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [1]の解説資料（PDF）" ;
     schema:pagination "12～18" ;
     schema:numberOfPages "7" .
@@ -3026,7 +3026,7 @@
 <https://w3id.org/jp-naaa/中国2022-01/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=17> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802010742/https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=17> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [1]の報告書（PDF）" ;
     schema:pagination "20～29" ;
     schema:numberOfPages "10" .
@@ -3050,7 +3050,7 @@
 <https://w3id.org/jp-naaa/中国2022-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=7> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154334/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=7> ;
     schema:name "令和4年度 中学校国語 [2]の調査問題（PDF）" ;
     schema:pagination "中国-5～中国-8" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -3058,7 +3058,7 @@
 <https://w3id.org/jp-naaa/中国2022-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154336/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和4年度 中学校国語 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3066,7 +3066,7 @@
 <https://w3id.org/jp-naaa/中国2022-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=16> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154350/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=16> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [2]の解説資料（PDF）" ;
     schema:pagination "19～27" ;
     schema:numberOfPages "9" .
@@ -3074,7 +3074,7 @@
 <https://w3id.org/jp-naaa/中国2022-02/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=27> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802010742/https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=27> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [2]の報告書（PDF）" ;
     schema:pagination "30～41" ;
     schema:numberOfPages "12" .
@@ -3098,7 +3098,7 @@
 <https://w3id.org/jp-naaa/中国2022-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=11> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154334/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=11> ;
     schema:name "令和4年度 中学校国語 [3]の調査問題（PDF）" ;
     schema:pagination "中国-9～中国-15" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "7" .
@@ -3106,7 +3106,7 @@
 <https://w3id.org/jp-naaa/中国2022-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154336/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和4年度 中学校国語 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3114,7 +3114,7 @@
 <https://w3id.org/jp-naaa/中国2022-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=25> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154350/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=25> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [3]の解説資料（PDF）" ;
     schema:pagination "28～34" ;
     schema:numberOfPages "7" .
@@ -3122,7 +3122,7 @@
 <https://w3id.org/jp-naaa/中国2022-03/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=39> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802010742/https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=39> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [3]の報告書（PDF）" ;
     schema:pagination "42～53" ;
     schema:numberOfPages "12" .
@@ -3146,7 +3146,7 @@
 <https://w3id.org/jp-naaa/中国2022-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=19> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154334/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf#page=19> ;
     schema:name "令和4年度 中学校国語 [4]の調査問題（PDF）" ;
     schema:pagination "中国-17～中国-19" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -3154,7 +3154,7 @@
 <https://w3id.org/jp-naaa/中国2022-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154336/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf#page=1> ;
     schema:name "令和4年度 中学校国語 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3162,7 +3162,7 @@
 <https://w3id.org/jp-naaa/中国2022-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=32> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154350/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf#page=32> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [4]の解説資料（PDF）" ;
     schema:pagination "35～39" ;
     schema:numberOfPages "5" .
@@ -3170,7 +3170,7 @@
 <https://w3id.org/jp-naaa/中国2022-04/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=51> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802010742/https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf#page=51> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語 [4]の報告書（PDF）" ;
     schema:pagination "54～60" ;
     schema:numberOfPages "7" .
@@ -3770,7 +3770,7 @@
 <https://w3id.org/jp-naaa/中数2021-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=3> ;
     schema:name "令和3年度 中学校数学 [1]の調査問題（PDF）" ;
     schema:pagination "中数-1" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -3778,7 +3778,7 @@
 <https://w3id.org/jp-naaa/中数2021-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3786,7 +3786,7 @@
 <https://w3id.org/jp-naaa/中数2021-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=8> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=8> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [1]の解説資料（PDF）" ;
     schema:pagination "12～13" ;
     schema:numberOfPages "2" .
@@ -3794,7 +3794,7 @@
 <https://w3id.org/jp-naaa/中数2021-01/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=16> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=16> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [1]の報告書（PDF）" ;
     schema:pagination "20～21" ;
     schema:numberOfPages "2" .
@@ -3818,7 +3818,7 @@
 <https://w3id.org/jp-naaa/中数2021-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=4> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=4> ;
     schema:name "令和3年度 中学校数学 [2]の調査問題（PDF）" ;
     schema:pagination "中数-2" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -3826,7 +3826,7 @@
 <https://w3id.org/jp-naaa/中数2021-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3834,7 +3834,7 @@
 <https://w3id.org/jp-naaa/中数2021-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=10> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=10> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [2]の解説資料（PDF）" ;
     schema:pagination "14～15" ;
     schema:numberOfPages "2" .
@@ -3842,7 +3842,7 @@
 <https://w3id.org/jp-naaa/中数2021-02/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=18> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=18> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [2]の報告書（PDF）" ;
     schema:pagination "22～25" ;
     schema:numberOfPages "4" .
@@ -3866,7 +3866,7 @@
 <https://w3id.org/jp-naaa/中数2021-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=5> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=5> ;
     schema:name "令和3年度 中学校数学 [3]の調査問題（PDF）" ;
     schema:pagination "中数-3" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -3874,7 +3874,7 @@
 <https://w3id.org/jp-naaa/中数2021-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3882,7 +3882,7 @@
 <https://w3id.org/jp-naaa/中数2021-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=12> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=12> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [3]の解説資料（PDF）" ;
     schema:pagination "16～17" ;
     schema:numberOfPages "2" .
@@ -3890,7 +3890,7 @@
 <https://w3id.org/jp-naaa/中数2021-03/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=22> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=22> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [3]の報告書（PDF）" ;
     schema:pagination "26～29" ;
     schema:numberOfPages "4" .
@@ -3914,7 +3914,7 @@
 <https://w3id.org/jp-naaa/中数2021-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=6> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=6> ;
     schema:name "令和3年度 中学校数学 [4]の調査問題（PDF）" ;
     schema:pagination "中数-4" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -3922,7 +3922,7 @@
 <https://w3id.org/jp-naaa/中数2021-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3930,7 +3930,7 @@
 <https://w3id.org/jp-naaa/中数2021-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=14> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=14> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [4]の解説資料（PDF）" ;
     schema:pagination "18～20" ;
     schema:numberOfPages "3" .
@@ -3938,7 +3938,7 @@
 <https://w3id.org/jp-naaa/中数2021-04/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=26> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=26> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [4]の報告書（PDF）" ;
     schema:pagination "30～32" ;
     schema:numberOfPages "3" .
@@ -3962,7 +3962,7 @@
 <https://w3id.org/jp-naaa/中数2021-05/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=7> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=7> ;
     schema:name "令和3年度 中学校数学 [5]の調査問題（PDF）" ;
     schema:pagination "中数-5" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -3970,7 +3970,7 @@
 <https://w3id.org/jp-naaa/中数2021-05/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [5]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -3978,7 +3978,7 @@
 <https://w3id.org/jp-naaa/中数2021-05/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=18> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=18> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [5]の解説資料（PDF）" ;
     schema:pagination "22～23" ;
     schema:numberOfPages "2" .
@@ -3986,7 +3986,7 @@
 <https://w3id.org/jp-naaa/中数2021-05/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=29> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=29> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [5]の報告書（PDF）" ;
     schema:pagination "33～35" ;
     schema:numberOfPages "3" .
@@ -4010,7 +4010,7 @@
 <https://w3id.org/jp-naaa/中数2021-06/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=9> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=9> ;
     schema:name "令和3年度 中学校数学 [6]の調査問題（PDF）" ;
     schema:pagination "中数-7～中数-10" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -4018,7 +4018,7 @@
 <https://w3id.org/jp-naaa/中数2021-06/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [6]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4026,7 +4026,7 @@
 <https://w3id.org/jp-naaa/中数2021-06/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=20> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=20> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [6]の解説資料（PDF）" ;
     schema:pagination "24～33" ;
     schema:numberOfPages "10" .
@@ -4034,7 +4034,7 @@
 <https://w3id.org/jp-naaa/中数2021-06/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=32> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=32> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [6]の報告書（PDF）" ;
     schema:pagination "36～42" ;
     schema:numberOfPages "7" .
@@ -4058,7 +4058,7 @@
 <https://w3id.org/jp-naaa/中数2021-07/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=13> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=13> ;
     schema:name "令和3年度 中学校数学 [7]の調査問題（PDF）" ;
     schema:pagination "中数-11～中数-12" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "2" .
@@ -4066,7 +4066,7 @@
 <https://w3id.org/jp-naaa/中数2021-07/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [7]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4074,7 +4074,7 @@
 <https://w3id.org/jp-naaa/中数2021-07/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=30> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=30> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [7]の解説資料（PDF）" ;
     schema:pagination "34～39" ;
     schema:numberOfPages "6" .
@@ -4082,7 +4082,7 @@
 <https://w3id.org/jp-naaa/中数2021-07/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=39> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=39> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [7]の報告書（PDF）" ;
     schema:pagination "43～49" ;
     schema:numberOfPages "7" .
@@ -4106,7 +4106,7 @@
 <https://w3id.org/jp-naaa/中数2021-08/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=15> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=15> ;
     schema:name "令和3年度 中学校数学 [8]の調査問題（PDF）" ;
     schema:pagination "中数-13～中数-16" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -4114,7 +4114,7 @@
 <https://w3id.org/jp-naaa/中数2021-08/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [8]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4122,7 +4122,7 @@
 <https://w3id.org/jp-naaa/中数2021-08/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=36> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=36> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [8]の解説資料（PDF）" ;
     schema:pagination "40～47" ;
     schema:numberOfPages "8" .
@@ -4130,7 +4130,7 @@
 <https://w3id.org/jp-naaa/中数2021-08/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=46> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=46> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [8]の報告書（PDF）" ;
     schema:pagination "50～58" ;
     schema:numberOfPages "9" .
@@ -4154,7 +4154,7 @@
 <https://w3id.org/jp-naaa/中数2021-09/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=19> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf#page=19> ;
     schema:name "令和3年度 中学校数学 [9]の調査問題（PDF）" ;
     schema:pagination "中数-17～中数-20" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -4162,7 +4162,7 @@
 <https://w3id.org/jp-naaa/中数2021-09/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和3年度 中学校数学 [9]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4170,7 +4170,7 @@
 <https://w3id.org/jp-naaa/中数2021-09/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=44> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf#page=44> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [9]の解説資料（PDF）" ;
     schema:pagination "48～53" ;
     schema:numberOfPages "6" .
@@ -4178,7 +4178,7 @@
 <https://w3id.org/jp-naaa/中数2021-09/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=55> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf#page=55> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学 [9]の報告書（PDF）" ;
     schema:pagination "59～66" ;
     schema:numberOfPages "8" .
@@ -4202,7 +4202,7 @@
 <https://w3id.org/jp-naaa/中数2022-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=3> ;
     schema:name "令和4年度 中学校数学 [1]の調査問題（PDF）" ;
     schema:pagination "中数-1" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -4210,7 +4210,7 @@
 <https://w3id.org/jp-naaa/中数2022-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4218,7 +4218,7 @@
 <https://w3id.org/jp-naaa/中数2022-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=9> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=9> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [1]の解説資料（PDF）" ;
     schema:pagination "12～13" ;
     schema:numberOfPages "2" .
@@ -4250,7 +4250,7 @@
 <https://w3id.org/jp-naaa/中数2022-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=4> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=4> ;
     schema:name "令和4年度 中学校数学 [2]の調査問題（PDF）" ;
     schema:pagination "中数-2" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -4258,7 +4258,7 @@
 <https://w3id.org/jp-naaa/中数2022-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4266,7 +4266,7 @@
 <https://w3id.org/jp-naaa/中数2022-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=11> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=11> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [2]の解説資料（PDF）" ;
     schema:pagination "14～16" ;
     schema:numberOfPages "3" .
@@ -4298,7 +4298,7 @@
 <https://w3id.org/jp-naaa/中数2022-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=5> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=5> ;
     schema:name "令和4年度 中学校数学 [3]の調査問題（PDF）" ;
     schema:pagination "中数-3～中数-4" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "2" .
@@ -4306,7 +4306,7 @@
 <https://w3id.org/jp-naaa/中数2022-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4314,7 +4314,7 @@
 <https://w3id.org/jp-naaa/中数2022-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=15> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=15> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [3]の解説資料（PDF）" ;
     schema:pagination "18～19" ;
     schema:numberOfPages "2" .
@@ -4346,7 +4346,7 @@
 <https://w3id.org/jp-naaa/中数2022-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=7> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=7> ;
     schema:name "令和4年度 中学校数学 [4]の調査問題（PDF）" ;
     schema:pagination "中数-5" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "1" .
@@ -4354,7 +4354,7 @@
 <https://w3id.org/jp-naaa/中数2022-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4362,7 +4362,7 @@
 <https://w3id.org/jp-naaa/中数2022-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=17> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=17> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [4]の解説資料（PDF）" ;
     schema:pagination "20～21" ;
     schema:numberOfPages "2" .
@@ -4394,7 +4394,7 @@
 <https://w3id.org/jp-naaa/中数2022-05/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=9> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=9> ;
     schema:name "令和4年度 中学校数学 [5]の調査問題（PDF）" ;
     schema:pagination "中数-7～中数-8" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "2" .
@@ -4402,7 +4402,7 @@
 <https://w3id.org/jp-naaa/中数2022-05/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [5]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4410,7 +4410,7 @@
 <https://w3id.org/jp-naaa/中数2022-05/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=19> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=19> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [5]の解説資料（PDF）" ;
     schema:pagination "22～23" ;
     schema:numberOfPages "2" .
@@ -4442,7 +4442,7 @@
 <https://w3id.org/jp-naaa/中数2022-06/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=11> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=11> ;
     schema:name "令和4年度 中学校数学 [6]の調査問題（PDF）" ;
     schema:pagination "中数-9～中数-12" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -4450,7 +4450,7 @@
 <https://w3id.org/jp-naaa/中数2022-06/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [6]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4458,7 +4458,7 @@
 <https://w3id.org/jp-naaa/中数2022-06/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=21> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=21> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [6]の解説資料（PDF）" ;
     schema:pagination "24～33" ;
     schema:numberOfPages "10" .
@@ -4490,7 +4490,7 @@
 <https://w3id.org/jp-naaa/中数2022-07/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=15> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=15> ;
     schema:name "令和4年度 中学校数学 [7]の調査問題（PDF）" ;
     schema:pagination "中数-13～中数-16" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -4498,7 +4498,7 @@
 <https://w3id.org/jp-naaa/中数2022-07/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [7]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4506,7 +4506,7 @@
 <https://w3id.org/jp-naaa/中数2022-07/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=31> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=31> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [7]の解説資料（PDF）" ;
     schema:pagination "34～42" ;
     schema:numberOfPages "9" .
@@ -4538,7 +4538,7 @@
 <https://w3id.org/jp-naaa/中数2022-08/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=19> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=19> ;
     schema:name "令和4年度 中学校数学 [8]の調査問題（PDF）" ;
     schema:pagination "中数-17～中数-19" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -4546,7 +4546,7 @@
 <https://w3id.org/jp-naaa/中数2022-08/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [8]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4554,7 +4554,7 @@
 <https://w3id.org/jp-naaa/中数2022-08/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=41> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=41> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [8]の解説資料（PDF）" ;
     schema:pagination "44～51" ;
     schema:numberOfPages "8" .
@@ -4586,7 +4586,7 @@
 <https://w3id.org/jp-naaa/中数2022-09/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=23> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf#page=23> ;
     schema:name "令和4年度 中学校数学 [9]の調査問題（PDF）" ;
     schema:pagination "中数-21～中数-24" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -4594,7 +4594,7 @@
 <https://w3id.org/jp-naaa/中数2022-09/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf#page=1> ;
     schema:name "令和4年度 中学校数学 [9]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -4602,7 +4602,7 @@
 <https://w3id.org/jp-naaa/中数2022-09/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=49> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf#page=49> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学 [9]の解説資料（PDF）" ;
     schema:pagination "52～57" ;
     schema:numberOfPages "6" .
@@ -5930,7 +5930,7 @@
 <https://w3id.org/jp-naaa/中理2022-01/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=3> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=3> ;
     schema:name "令和4年度 中学校理科 [1]の調査問題（PDF）" ;
     schema:pagination "中理-1～中理-2" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "2" .
@@ -5938,7 +5938,7 @@
 <https://w3id.org/jp-naaa/中理2022-01/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [1]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -5946,7 +5946,7 @@
 <https://w3id.org/jp-naaa/中理2022-01/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=11> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=11> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [1]の解説資料（PDF）" ;
     schema:pagination "14～18" ;
     schema:numberOfPages "5" .
@@ -5978,7 +5978,7 @@
 <https://w3id.org/jp-naaa/中理2022-02/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=6> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=6> ;
     schema:name "令和4年度 中学校理科 [2]の調査問題（PDF）" ;
     schema:pagination "中理-4～中理-7" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -5986,7 +5986,7 @@
 <https://w3id.org/jp-naaa/中理2022-02/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [2]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -5994,7 +5994,7 @@
 <https://w3id.org/jp-naaa/中理2022-02/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=17> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=17> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [2]の解説資料（PDF）" ;
     schema:pagination "20～25" ;
     schema:numberOfPages "6" .
@@ -6026,7 +6026,7 @@
 <https://w3id.org/jp-naaa/中理2022-03/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=10> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=10> ;
     schema:name "令和4年度 中学校理科 [3]の調査問題（PDF）" ;
     schema:pagination "中理-8～中理-10" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -6034,7 +6034,7 @@
 <https://w3id.org/jp-naaa/中理2022-03/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [3]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -6042,7 +6042,7 @@
 <https://w3id.org/jp-naaa/中理2022-03/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=23> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=23> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [3]の解説資料（PDF）" ;
     schema:pagination "26～31" ;
     schema:numberOfPages "6" .
@@ -6074,7 +6074,7 @@
 <https://w3id.org/jp-naaa/中理2022-04/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=13> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=13> ;
     schema:name "令和4年度 中学校理科 [4]の調査問題（PDF）" ;
     schema:pagination "中理-11～中理-12" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "2" .
@@ -6082,7 +6082,7 @@
 <https://w3id.org/jp-naaa/中理2022-04/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [4]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -6090,7 +6090,7 @@
 <https://w3id.org/jp-naaa/中理2022-04/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=29> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=29> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [4]の解説資料（PDF）" ;
     schema:pagination "32～36" ;
     schema:numberOfPages "5" .
@@ -6122,7 +6122,7 @@
 <https://w3id.org/jp-naaa/中理2022-05/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=15> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=15> ;
     schema:name "令和4年度 中学校理科 [5]の調査問題（PDF）" ;
     schema:pagination "中理-13～中理-16" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "4" .
@@ -6130,7 +6130,7 @@
 <https://w3id.org/jp-naaa/中理2022-05/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [5]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -6138,7 +6138,7 @@
 <https://w3id.org/jp-naaa/中理2022-05/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=35> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=35> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [5]の解説資料（PDF）" ;
     schema:pagination "38～45" ;
     schema:numberOfPages "8" .
@@ -6170,7 +6170,7 @@
 <https://w3id.org/jp-naaa/中理2022-06/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=19> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=19> ;
     schema:name "令和4年度 中学校理科 [6]の調査問題（PDF）" ;
     schema:pagination "中理-17～中理-19" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -6178,7 +6178,7 @@
 <https://w3id.org/jp-naaa/中理2022-06/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [6]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -6186,7 +6186,7 @@
 <https://w3id.org/jp-naaa/中理2022-06/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=43> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=43> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [6]の解説資料（PDF）" ;
     schema:pagination "46～51" ;
     schema:numberOfPages "6" .
@@ -6218,7 +6218,7 @@
 <https://w3id.org/jp-naaa/中理2022-07/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=22> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=22> ;
     schema:name "令和4年度 中学校理科 [7]の調査問題（PDF）" ;
     schema:pagination "中理-20～中理-22" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -6226,7 +6226,7 @@
 <https://w3id.org/jp-naaa/中理2022-07/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [7]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -6234,7 +6234,7 @@
 <https://w3id.org/jp-naaa/中理2022-07/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=49> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=49> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [7]の解説資料（PDF）" ;
     schema:pagination "52～57" ;
     schema:numberOfPages "6" .
@@ -6266,7 +6266,7 @@
 <https://w3id.org/jp-naaa/中理2022-08/question>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=25> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf#page=25> ;
     schema:name "令和4年度 中学校理科 [8]の調査問題（PDF）" ;
     schema:pagination "中理-23～中理-25" ; #設問の調査問題印字ページ範囲
     schema:numberOfPages "3" .
@@ -6274,7 +6274,7 @@
 <https://w3id.org/jp-naaa/中理2022-08/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf#page=1> ;
     schema:name "令和4年度 中学校理科 [8]の正答例（PDF）" ;
     schema:pagination "1" ;
     schema:numberOfPages "1" .
@@ -6282,7 +6282,7 @@
 <https://w3id.org/jp-naaa/中理2022-08/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:contentUrl <https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=55> ; #解説資料PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf#page=55> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科 [8]の解説資料（PDF）" ;
     schema:pagination "58～65" ;
     schema:numberOfPages "8" .
