@@ -1,6 +1,8 @@
 # jp-naaa
 
-This is a Linked Open Data (LOD) dataset for National Assessment of Academic Ability (NAAA) in Japan.
+## National Assessment of Academic Ability (NAAA) LOD
+
+This repository provides a Linked Open Data (LOD) dataset for National Assessment of Academic Ability (NAAA) in Japan.
 
 It is derived from https://www.nier.go.jp/kaihatsu/zenkokugakuryoku.html
 
