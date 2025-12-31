@@ -1,0 +1,18 @@
+/* トップの背景ロゴ */
+.jumbotron::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("hero-bg-logo.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: contain; 
+  opacity: 0.12;
+  /* 文字のクリックなど邪魔しない */
+  pointer-events: none;
+}
+/* 中の本文を前面に */
+.jumbotron .container {
+  position: relative;
+  z-index: 1;
+}
