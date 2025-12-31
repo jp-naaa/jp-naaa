@@ -29,31 +29,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154509/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_kokugo.pdf> ;
     schema:name "令和3年度 小学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "22" .
+    schema:numberOfPages 22 .
 <https://w3id.org/jp-naaa/小国2021/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154510/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_kokugo.pdf> ;
     schema:name "令和3年度 小学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小国2021/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154523/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "64" .
+    schema:numberOfPages 64 .
 <https://w3id.org/jp-naaa/小国2021/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://warp.ndl.go.jp/web/20250802011354/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011354/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21plang.pdf> ; #報告書PDFのURL
     schema:name "令和3年度 小学校国語の報告書（PDF）" ;
-    schema:numberOfPages "58" .
+    schema:numberOfPages 58 .
 <https://w3id.org/jp-naaa/小国2021/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://warp.da.ndl.go.jp/info:ndljp/pid/14460507/www.nier.go.jp/jugyourei/r03/idea-01.html> ; #授業アイデアHTMLのURL
     schema:name "令和3年度 小学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小算2021> a <https://w3id.org/jp-naaa/Test>;
@@ -75,31 +75,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154524/https://www.nier.go.jp/21chousa/pdf/21mondai_shou_sansuu.pdf> ;
     schema:name "令和3年度 小学校算数の調査問題（PDF）" ;
-    schema:numberOfPages "26" .
+    schema:numberOfPages 26 .
 <https://w3id.org/jp-naaa/小算2021/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154525/https://www.nier.go.jp/21chousa/pdf/21seitourei_shou_sansuu.pdf> ;
     schema:name "令和3年度 小学校算数の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小算2021/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154539/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_shou_sansuu.pdf> ; #解説資料PDFのURL
     schema:name "令和3年度 小学校算数の解説資料（PDF）" ;
-    schema:numberOfPages "80" .
+    schema:numberOfPages 80 .
 <https://w3id.org/jp-naaa/小算2021/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://warp.ndl.go.jp/web/20250802011434/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011434/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21pmath.pdf> ; #報告書PDFのURL
     schema:name "令和3年度 小学校算数の報告書（PDF）" ;
-    schema:numberOfPages "82" .
+    schema:numberOfPages 82 .
 <https://w3id.org/jp-naaa/小算2021/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://warp.da.ndl.go.jp/info:ndljp/pid/14460507/www.nier.go.jp/jugyourei/r03/idea-02.html> ; #授業アイデアHTMLのURL
     schema:name "令和3年度 小学校算数の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中国2021> a <https://w3id.org/jp-naaa/Test>;
@@ -121,31 +121,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154541/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_kokugo.pdf> ;
     schema:name "令和3年度 中学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "23" .
+    schema:numberOfPages 23 .
 <https://w3id.org/jp-naaa/中国2021/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154542/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_kokugo.pdf> ;
     schema:name "令和3年度 中学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中国2021/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154559/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "64" .
+    schema:numberOfPages 64 .
 <https://w3id.org/jp-naaa/中国2021/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://warp.ndl.go.jp/web/20250802011518/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011518/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mlang.pdf> ; #報告書PDFのURL
     schema:name "令和3年度 中学校国語の報告書（PDF）" ;
-    schema:numberOfPages "60" .
+    schema:numberOfPages 60 .
 <https://w3id.org/jp-naaa/中国2021/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://warp.da.ndl.go.jp/info:ndljp/pid/14460507/www.nier.go.jp/jugyourei/r03/idea-03.html> ; #授業アイデアHTMLのURL
     schema:name "令和3年度 中学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中数2021> a <https://w3id.org/jp-naaa/Test>;
@@ -167,31 +167,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154601/https://www.nier.go.jp/21chousa/pdf/21mondai_chuu_suugaku.pdf> ;
     schema:name "令和3年度 中学校数学の調査問題（PDF）" ;
-    schema:numberOfPages "24" .
+    schema:numberOfPages 24 .
 <https://w3id.org/jp-naaa/中数2021/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154603/https://www.nier.go.jp/21chousa/pdf/21seitourei_chuu_suugaku.pdf> ;
     schema:name "令和3年度 中学校数学の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中数2021/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154618/https://www.nier.go.jp/21chousa/pdf/21kaisetsu_chuu_suugaku.pdf> ; #解説資料PDFのURL
     schema:name "令和3年度 中学校数学の解説資料（PDF）" ;
-    schema:numberOfPages "76" .
+    schema:numberOfPages 76 .
 <https://w3id.org/jp-naaa/中数2021/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802011538/https://www.nier.go.jp/21chousakekkahoukoku/report/data/21mmath.pdf> ; #報告書PDFのURL
     schema:name "令和3年度 中学校数学の報告書（PDF）" ;
-    schema:numberOfPages "72" .
+    schema:numberOfPages 72 .
 <https://w3id.org/jp-naaa/中数2021/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://warp.da.ndl.go.jp/info:ndljp/pid/14460507/www.nier.go.jp/jugyourei/r03/idea-04.html> ; #授業アイデアHTMLのURL
     schema:name "令和3年度 中学校数学の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小国2022> a <https://w3id.org/jp-naaa/Test>;
@@ -213,31 +213,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154226/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_kokugo.pdf> ;
     schema:name "令和4年度 小学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "28" .
+    schema:numberOfPages 28 .
 <https://w3id.org/jp-naaa/小国2022/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154227/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_kokugo.pdf> ;
     schema:name "令和4年度 小学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小国2022/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154235/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "67" .
+    schema:numberOfPages 67 .
 <https://w3id.org/jp-naaa/小国2022/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22plang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22plang.pdf> ; #報告書PDFのURL
     schema:name "令和4年度 小学校国語の報告書（PDF）" ;
-    schema:numberOfPages "70" .
+    schema:numberOfPages 70 .
 <https://w3id.org/jp-naaa/小国2022/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r04/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和4年度 小学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小算2022> a <https://w3id.org/jp-naaa/Test>;
@@ -259,31 +259,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154246/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_sansuu.pdf> ;
     schema:name "令和4年度 小学校算数の調査問題（PDF）" ;
-    schema:numberOfPages "32" .
+    schema:numberOfPages 32 .
 <https://w3id.org/jp-naaa/小算2022/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154247/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_sansuu.pdf> ;
     schema:name "令和4年度 小学校算数の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小算2022/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154259/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_sansuu.pdf> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校算数の解説資料（PDF）" ;
-    schema:numberOfPages "79" .
+    schema:numberOfPages 79 .
 <https://w3id.org/jp-naaa/小算2022/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22pmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22pmath.pdf> ; #報告書PDFのURL
     schema:name "令和4年度 小学校算数の報告書（PDF）" ;
-    schema:numberOfPages "94" .
+    schema:numberOfPages 94 .
 <https://w3id.org/jp-naaa/小算2022/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r04/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和4年度 小学校算数の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小理2022> a <https://w3id.org/jp-naaa/Test>;
@@ -305,31 +305,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154316/https://www.nier.go.jp/22chousa/pdf/22mondai_shou_rika.pdf> ;
     schema:name "令和4年度 小学校理科の調査問題（PDF）" ;
-    schema:numberOfPages "36" .
+    schema:numberOfPages 36 .
 <https://w3id.org/jp-naaa/小理2022/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154317/https://www.nier.go.jp/22chousa/pdf/22seitourei_shou_rika.pdf> ;
     schema:name "令和4年度 小学校理科の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小理2022/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154332/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_shou_rika.pdf> ; #解説資料PDFのURL
     schema:name "令和4年度 小学校理科の解説資料（PDF）" ;
-    schema:numberOfPages "95" .
+    schema:numberOfPages 95 .
 <https://w3id.org/jp-naaa/小理2022/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22psci.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22psci.pdf> ; #報告書PDFのURL
     schema:name "令和4年度 小学校理科の報告書（PDF）" ;
-    schema:numberOfPages "78" .
+    schema:numberOfPages 78 .
 <https://w3id.org/jp-naaa/小理2022/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r04/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和4年度 小学校理科の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中国2022> a <https://w3id.org/jp-naaa/Test>;
@@ -351,31 +351,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154334/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_kokugo.pdf> ;
     schema:name "令和4年度 中学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "23" .
+    schema:numberOfPages 23 .
 <https://w3id.org/jp-naaa/中国2022/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154336/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_kokugo.pdf> ;
     schema:name "令和4年度 中学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中国2022/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154350/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "63" .
+    schema:numberOfPages 63 .
 <https://w3id.org/jp-naaa/中国2022/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://warp.ndl.go.jp/web/20250802010742/https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://warp.ndl.go.jp/web/20250802010742/https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mlang.pdf> ; #報告書PDFのURL
     schema:name "令和4年度 中学校国語の報告書（PDF）" ;
-    schema:numberOfPages "66" .
+    schema:numberOfPages 66 .
 <https://w3id.org/jp-naaa/中国2022/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r04/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和4年度 中学校国語の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中数2022> a <https://w3id.org/jp-naaa/Test>;
@@ -397,31 +397,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154353/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_suugaku.pdf> ;
     schema:name "令和4年度 中学校数学の調査問題（PDF）" ;
-    schema:numberOfPages "28" .
+    schema:numberOfPages 28 .
 <https://w3id.org/jp-naaa/中数2022/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154354/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_suugaku.pdf> ;
     schema:name "令和4年度 中学校数学の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中数2022/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154406/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_suugaku.pdf> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校数学の解説資料（PDF）" ;
-    schema:numberOfPages "79" .
+    schema:numberOfPages 79 .
 <https://w3id.org/jp-naaa/中数2022/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22mmath.pdf> ; #報告書PDFのURL
     schema:name "令和4年度 中学校数学の報告書（PDF）" ;
-    schema:numberOfPages "82" .
+    schema:numberOfPages 82 .
 <https://w3id.org/jp-naaa/中数2022/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r04/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和4年度 中学校数学の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中理2022> a <https://w3id.org/jp-naaa/Test>;
@@ -443,31 +443,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154416/https://www.nier.go.jp/22chousa/pdf/22mondai_chuu_rika.pdf> ;
     schema:name "令和4年度 中学校理科の調査問題（PDF）" ;
-    schema:numberOfPages "29" .
+    schema:numberOfPages 29 .
 <https://w3id.org/jp-naaa/中理2022/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154418/https://www.nier.go.jp/22chousa/pdf/22seitourei_chuu_rika.pdf> ;
     schema:name "令和4年度 中学校理科の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中理2022/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://warp.ndl.go.jp/web/20250801154430/https://www.nier.go.jp/22chousa/pdf/22kaisetsu_chuu_rika.pdf> ; #解説資料PDFのURL
     schema:name "令和4年度 中学校理科の解説資料（PDF）" ;
-    schema:numberOfPages "89" .
+    schema:numberOfPages 89 .
 <https://w3id.org/jp-naaa/中理2022/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22msci.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/22chousakekkahoukoku/report/data/22msci.pdf> ; #報告書PDFのURL
     schema:name "令和4年度 中学校理科の報告書（PDF）" ;
-    schema:numberOfPages "94" .
+    schema:numberOfPages 94 .
 <https://w3id.org/jp-naaa/中理2022/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r04/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和4年度 中学校理科の授業アイデア例" ;
-    schema:numberOfItems "8" .
+    schema:numberOfItems 8 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小国2023> a <https://w3id.org/jp-naaa/Test>;
@@ -489,31 +489,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23mondai_shou_kokugo.pdf> ;
     schema:name "令和5年度 小学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "32" .
+    schema:numberOfPages 32 .
 <https://w3id.org/jp-naaa/小国2023/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23seitourei_shou_kokugo.pdf> ;
     schema:name "令和5年度 小学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小国2023/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23kaisetsu_shou_kokugo_1.pdf> ; #解説資料PDFのURL
     schema:name "令和5年度 小学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "55" .
+    schema:numberOfPages 55 .
 <https://w3id.org/jp-naaa/小国2023/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23plang_k.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23plang_k.pdf> ; #報告書PDFのURL
     schema:name "令和5年度 小学校国語の報告書（PDF）" ;
-    schema:numberOfPages "73" .
+    schema:numberOfPages 73 .
 <https://w3id.org/jp-naaa/小国2023/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r05/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和5年度 小学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小算2023> a <https://w3id.org/jp-naaa/Test>;
@@ -535,31 +535,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23mondai_shou_sansuu.pdf> ;
     schema:name "令和5年度 小学校算数の調査問題（PDF）" ;
-    schema:numberOfPages "32" .
+    schema:numberOfPages 32 .
 <https://w3id.org/jp-naaa/小算2023/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23seitourei_shou_sansuu.pdf> ;
     schema:name "令和5年度 小学校算数の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小算2023/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23kaisetsu_shou_sansuu_2.pdf> ; #解説資料PDFのURL
     schema:name "令和5年度 小学校算数の解説資料（PDF）" ;
-    schema:numberOfPages "80" .
+    schema:numberOfPages 80 .
 <https://w3id.org/jp-naaa/小算2023/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23pmath_k.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23pmath_k.pdf> ; #報告書PDFのURL
     schema:name "令和5年度 小学校算数の報告書（PDF）" ;
-    schema:numberOfPages "99" .
+    schema:numberOfPages 99 .
 <https://w3id.org/jp-naaa/小算2023/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r05/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和5年度 小学校算数の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中国2023> a <https://w3id.org/jp-naaa/Test>;
@@ -581,31 +581,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23mondai_chuu_kokugo.pdf> ;
     schema:name "令和5年度 中学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "23" .
+    schema:numberOfPages 23 .
 <https://w3id.org/jp-naaa/中国2023/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23seitourei_chuu_kokugo.pdf> ;
     schema:name "令和5年度 中学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中国2023/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23kaisetsu_chuu_kokugo_2.pdf> ; #解説資料PDFのURL
     schema:name "令和5年度 中学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "53" .
+    schema:numberOfPages 53 .
 <https://w3id.org/jp-naaa/中国2023/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23mlang_k_1.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23mlang_k_1.pdf> ; #報告書PDFのURL
     schema:name "令和5年度 中学校国語の報告書（PDF）" ;
-    schema:numberOfPages "72" .
+    schema:numberOfPages 72 .
 <https://w3id.org/jp-naaa/中国2023/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r05/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和5年度 中学校国語の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中数2023> a <https://w3id.org/jp-naaa/Test>;
@@ -627,31 +627,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23mondai_chuu_suugaku.pdf> ;
     schema:name "令和5年度 中学校数学の調査問題（PDF）" ;
-    schema:numberOfPages "26" .
+    schema:numberOfPages 26 .
 <https://w3id.org/jp-naaa/中数2023/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23seitourei_chuu_suugaku.pdf> ;
     schema:name "令和5年度 中学校数学の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中数2023/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23kaisetsu_chuu_suugaku_2.pdf> ; #解説資料PDFのURL
     schema:name "令和5年度 中学校数学の解説資料（PDF）" ;
-    schema:numberOfPages "63" .
+    schema:numberOfPages 63 .
 <https://w3id.org/jp-naaa/中数2023/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23mmath_k.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23mmath_k.pdf> ; #報告書PDFのURL
     schema:name "令和5年度 中学校数学の報告書（PDF）" ;
-    schema:numberOfPages "72" .
+    schema:numberOfPages 72 .
 <https://w3id.org/jp-naaa/中数2023/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r05/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和5年度 中学校数学の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中英2023> a <https://w3id.org/jp-naaa/Test>;
@@ -679,39 +679,39 @@
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23mondai_chuu_eigo.pdf> ;
     schema:name "令和5年度 中学校英語の調査問題（PDF）" ;
     schema:description "「聞くこと、読むこと、書くこと」の問題(聞・読・書[1]～聞・読・書[10])の調査問題テキスト" ;
-    schema:numberOfPages "26" .
+    schema:numberOfPages 26 .
 <https://w3id.org/jp-naaa/中英2023/answer1>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23seitourei_chuu_eigo.pdf> ;
     schema:name "令和5年度 中学校英語の正答例（聞・読・書[1]～[10]）（PDF）" ;
     schema:description "「聞くこと、読むこと、書くこと」の問題(聞・読・書[1]～聞・読・書[10])の正答例" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中英2023/answer2>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23seitourei_chuu_eigo_speaking.pdf> ;
     schema:name "令和5年度 中学校英語の正答例(話[1]～[2])（PDF）" ;
     schema:description "「話すこと」の問題(話[1]～話[2])の正答例" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中英2023/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23kaisetsu_chuu_eigo_1.pdf> ; #解説資料PDFのURL
     schema:name "令和5年度 中学校英語の解説資料（PDF）" ;
-    schema:numberOfPages "77" .
+    schema:numberOfPages 77 .
 <https://w3id.org/jp-naaa/中英2023/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23meng_k.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/23chousakekkahoukoku/report/data/23meng_k.pdf> ; #報告書PDFのURL
     schema:name "令和5年度 中学校英語の報告書（PDF）" ;
-    schema:numberOfPages "100" .
+    schema:numberOfPages 100 .
 <https://w3id.org/jp-naaa/中英2023/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r05/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和5年度 中学校英語の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 <https://w3id.org/jp-naaa/中英2023/questionAudio>
     a schema:AudioObject ;
     schema:encodingFormat "audio/mpeg" ;
@@ -726,7 +726,7 @@
     schema:contenturl <https://www.nier.go.jp/23chousa/pdf/23mondai_chuu_eigo_listening-script.pdf> ;
     schema:name "令和5年度 中学校英語の調査問題の音声のスクリプト" ;
     schema:description "「聞くこと、読むこと、書くこと」のうち「聞くこと」の問題(聞・読・書[1]～聞・読・書[4])の音声のスクリプト" ;
-    schema:numberOfPages "2" .
+    schema:numberOfPages 2 .
 <https://w3id.org/jp-naaa/中英2023/questionVideo>
     a schema:VideoObject ;
     schema:contentUrl <https://youtu.be/cG_BvVwYc-g> ;
@@ -740,7 +740,7 @@
     schema:contentUrl <https://www.nier.go.jp/23chousa/pdf/23mondai_chuu_eigo_speaking-script.pdf> ;
     schema:name "令和5年度 中学校英語の調査問題の動画のスクリプト" ;
     schema:description "「話すこと」の問題(話[1]～話[2])の動画のスクリプト" ;
-    schema:numberOfPages "3" .
+    schema:numberOfPages 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小国2024> a <https://w3id.org/jp-naaa/Test>;
@@ -762,31 +762,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24mondai_shou_kokugo.pdf> ;
     schema:name "令和6年度 小学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "26" .
+    schema:numberOfPages 26 .
 <https://w3id.org/jp-naaa/小国2024/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24seitourei_shou_kokugo.pdf> ;
     schema:name "令和6年度 小学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小国2024/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24kaisetsu_shou_kokugo_1.pdf> ; #解説資料PDFのURL
     schema:name "令和6年度 小学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "52" .
+    schema:numberOfPages 52 .
 <https://w3id.org/jp-naaa/小国2024/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24plang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24plang.pdf> ; #報告書PDFのURL
     schema:name "令和6年度 小学校国語の報告書（PDF）" ;
-    schema:numberOfPages "73" .
+    schema:numberOfPages 73 .
 <https://w3id.org/jp-naaa/小国2024/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r06/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和6年度 小学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小算2024> a <https://w3id.org/jp-naaa/Test>;
@@ -808,31 +808,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24mondai_shou_sansuu.pdf> ;
     schema:name "令和6年度 小学校算数の調査問題（PDF）" ;
-    schema:numberOfPages "28" .
+    schema:numberOfPages 28 .
 <https://w3id.org/jp-naaa/小算2024/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24seitourei_shou_sansuu.pdf> ;
     schema:name "令和6年度 小学校算数の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小算2024/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24kaisetsu_shou_sansuu.pdf> ; #解説資料PDFのURL
     schema:name "令和6年度 小学校算数の解説資料（PDF）" ;
-    schema:numberOfPages "71" .
+    schema:numberOfPages 71 .
 <https://w3id.org/jp-naaa/小算2024/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24pmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24pmath.pdf> ; #報告書PDFのURL
     schema:name "令和6年度 小学校算数の報告書（PDF）" ;
-    schema:numberOfPages "89" .
+    schema:numberOfPages 89 .
 <https://w3id.org/jp-naaa/小算2024/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r06/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和6年度 小学校算数の授業アイデア例" ;
-    schema:numberOfItems "5" .
+    schema:numberOfItems 5 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中国2024> a <https://w3id.org/jp-naaa/Test>;
@@ -854,31 +854,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24mondai_chuu_kokugo.pdf> ;
     schema:name "令和6年度 中学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "25" .
+    schema:numberOfPages 25 .
 <https://w3id.org/jp-naaa/中国2024/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24seitourei_chuu_kokugo.pdf> ;
     schema:name "令和6年度 中学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中国2024/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24kaisetsu_chuu_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和6年度 中学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "57" .
+    schema:numberOfPages 57 .
 <https://w3id.org/jp-naaa/中国2024/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24mlang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24mlang.pdf> ; #報告書PDFのURL
     schema:name "令和6年度 中学校国語の報告書（PDF）" ;
-    schema:numberOfPages "74" .
+    schema:numberOfPages 74 .
 <https://w3id.org/jp-naaa/中国2024/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r06/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和6年度 中学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中数2024> a <https://w3id.org/jp-naaa/Test>;
@@ -900,31 +900,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24mondai_chuu_suugaku.pdf> ;
     schema:name "令和6年度 中学校数学の調査問題（PDF）" ;
-    schema:numberOfPages "30" .
+    schema:numberOfPages 30 .
 <https://w3id.org/jp-naaa/中数2024/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24seitourei_chuu_suugaku.pdf> ;
     schema:name "令和6年度 中学校数学の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中数2024/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/24chousa/pdf/24kaisetsu_chuu_suugaku.pdf> ; #解説資料PDFのURL
     schema:name "令和6年度 中学校数学の解説資料（PDF）" ;
-    schema:numberOfPages "70" .
+    schema:numberOfPages 70 .
 <https://w3id.org/jp-naaa/中数2024/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24mmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/24chousakekkahoukoku/report/data/24mmath.pdf> ; #報告書PDFのURL
     schema:name "令和6年度 中学校数学の報告書（PDF）" ;
-    schema:numberOfPages "82" .
+    schema:numberOfPages 82 .
 <https://w3id.org/jp-naaa/中数2024/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r06/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和6年度 中学校数学の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小国2025> a <https://w3id.org/jp-naaa/Test>;
@@ -946,31 +946,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25mondai_shou_kokugo.pdf> ;
     schema:name "令和7年度 小学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "21" .
+    schema:numberOfPages 21 .
 <https://w3id.org/jp-naaa/小国2025/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25seitourei_shou_kokugo.pdf> ;
     schema:name "令和7年度 小学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小国2025/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25kaisetsu_shou_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和7年度 小学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "54" .
+    schema:numberOfPages 54 .
 <https://w3id.org/jp-naaa/小国2025/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25plang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25plang.pdf> ; #報告書PDFのURL
     schema:name "令和7年度 小学校国語の報告書（PDF）" ;
-    schema:numberOfPages "80" .
+    schema:numberOfPages 80 .
 <https://w3id.org/jp-naaa/小国2025/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r07/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和7年度 小学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小算2025> a <https://w3id.org/jp-naaa/Test>;
@@ -992,31 +992,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25mondai_shou_sansuu.pdf> ;
     schema:name "令和7年度 小学校算数の調査問題（PDF）" ;
-    schema:numberOfPages "26" .
+    schema:numberOfPages 26 .
 <https://w3id.org/jp-naaa/小算2025/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25seitourei_shou_sansuu.pdf> ;
     schema:name "令和7年度 小学校算数の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小算2025/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25kaisetsu_shou_sansuu.pdf> ; #解説資料PDFのURL
     schema:name "令和7年度 小学校算数の解説資料（PDF）" ;
-    schema:numberOfPages "73" .
+    schema:numberOfPages 73 .
 <https://w3id.org/jp-naaa/小算2025/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25pmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25pmath.pdf> ; #報告書PDFのURL
     schema:name "令和7年度 小学校算数の報告書（PDF）" ;
-    schema:numberOfPages "107" .
+    schema:numberOfPages 107 .
 <https://w3id.org/jp-naaa/小算2025/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r07/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和7年度 小学校算数の授業アイデア例" ;
-    schema:numberOfItems "4" .
+    schema:numberOfItems 4 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/小理2025> a <https://w3id.org/jp-naaa/Test>;
@@ -1038,31 +1038,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25mondai_shou_rika.pdf> ;
     schema:name "令和7年度 小学校理科の調査問題（PDF）" ;
-    schema:numberOfPages "26" .
+    schema:numberOfPages 26 .
 <https://w3id.org/jp-naaa/小理2025/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25seitourei_shou_rika.pdf> ;
     schema:name "令和7年度 小学校理科の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/小理2025/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25kaisetsu_shou_rika.pdf> ; #解説資料PDFのURL
     schema:name "令和7年度 小学校理科の解説資料（PDF）" ;
-    schema:numberOfPages "87" .
+    schema:numberOfPages 87 .
 <https://w3id.org/jp-naaa/小理2025/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25psci.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25psci.pdf> ; #報告書PDFのURL
     schema:name "令和7年度 小学校理科の報告書（PDF）" ;
-    schema:numberOfPages "76" .
+    schema:numberOfPages 76 .
 <https://w3id.org/jp-naaa/小理2025/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r07/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和7年度 小学校理科の授業アイデア例" ;
-    schema:numberOfItems "2" .
+    schema:numberOfItems 2 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中国2025> a <https://w3id.org/jp-naaa/Test>;
@@ -1084,31 +1084,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25mondai_chuu_kokugo.pdf> ;
     schema:name "令和7年度 中学校国語の調査問題（PDF）" ;
-    schema:numberOfPages "25" .
+    schema:numberOfPages 25 .
 <https://w3id.org/jp-naaa/中国2025/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25seitourei_chuu_kokugo.pdf> ;
     schema:name "令和7年度 中学校国語の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中国2025/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25kaisetsu_chuu_kokugo.pdf> ; #解説資料PDFのURL
     schema:name "令和7年度 中学校国語の解説資料（PDF）" ;
-    schema:numberOfPages "60" .
+    schema:numberOfPages 60 .
 <https://w3id.org/jp-naaa/中国2025/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25mlang.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25mlang.pdf> ; #報告書PDFのURL
     schema:name "令和7年度 中学校国語の報告書（PDF）" ;
-    schema:numberOfPages "73" .
+    schema:numberOfPages 73 .
 <https://w3id.org/jp-naaa/中国2025/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r07/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和7年度 中学校国語の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中数2025> a <https://w3id.org/jp-naaa/Test>;
@@ -1130,31 +1130,31 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25mondai_chuu_suugaku.pdf> ;
     schema:name "令和7年度 中学校数学の調査問題（PDF）" ;
-    schema:numberOfPages "24" .
+    schema:numberOfPages 24 .
 <https://w3id.org/jp-naaa/中数2025/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25seitourei_chuu_suugaku.pdf> ;
     schema:name "令和7年度 中学校数学の正答例（PDF）" ;
-    schema:numberOfPages "1" .
+    schema:numberOfPages 1 .
 <https://w3id.org/jp-naaa/中数2025/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25kaisetsu_chuu_suugaku.pdf> ; #解説資料PDFのURL
     schema:name "令和7年度 中学校数学の解説資料（PDF）" ;
-    schema:numberOfPages "64" .
+    schema:numberOfPages 64 .
 <https://w3id.org/jp-naaa/中数2025/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25mmath.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25mmath.pdf> ; #報告書PDFのURL
     schema:name "令和7年度 中学校数学の報告書（PDF）" ;
-    schema:numberOfPages "78" .
+    schema:numberOfPages 78 .
 <https://w3id.org/jp-naaa/中数2025/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r07/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和7年度 中学校数学の授業アイデア例" ;
-    schema:numberOfItems "3" .
+    schema:numberOfItems 3 .
 
 #テスト全体についてのリソースの定義
 <https://w3id.org/jp-naaa/中理2025> a <https://w3id.org/jp-naaa/Test>;
@@ -1176,29 +1176,29 @@
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25mondai_chuu_rika.pdf> ;
     schema:name "令和7年度 中学校理科の調査問題（PDF）" ;
-    schema:numberOfPages "24" .
+    schema:numberOfPages 24 .
 <https://w3id.org/jp-naaa/中理2025/answer>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25seitourei_chuu_rika.pdf> ;
     schema:name "令和7年度 中学校理科の正答例（PDF）" ;
-    schema:numberOfPages "3" .
+    schema:numberOfPages 3 .
 <https://w3id.org/jp-naaa/中理2025/document>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
     schema:contentUrl <https://www.nier.go.jp/25chousa/pdf/25kaisetsu_chuu_rika.pdf> ; #解説資料PDFのURL
     schema:name "令和7年度 中学校理科の解説資料（PDF）" ;
-    schema:numberOfPages "103" .
+    schema:numberOfPages 103 .
 <https://w3id.org/jp-naaa/中理2025/report>
     a schema:MediaObject ;
     schema:encodingFormat "application/pdf" ;
-    schema:url <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25msci.pdf> ; #報告書PDFのURL
+    schema:contentUrl <https://www.nier.go.jp/25chousakekkahoukoku/report/data/25msci.pdf> ; #報告書PDFのURL
     schema:name "令和7年度 中学校理科の報告書（PDF）" ;
-    schema:numberOfPages "133" .
+    schema:numberOfPages 133 .
 <https://w3id.org/jp-naaa/中理2025/lessonPlan>
     a schema:WebPage ;
     schema:encodingFormat "text/html" ;
     schema:contentUrl <https://www.nier.go.jp/jugyourei/r07/index.html> ; #授業アイデアHTMLのURL
     schema:name "令和7年度 中学校理科の授業アイデア例" ;
-    schema:numberOfItems "9" .
+    schema:numberOfItems 9 .
 
