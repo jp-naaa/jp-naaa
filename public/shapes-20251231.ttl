@@ -241,7 +241,7 @@
     sh:path <http://purl.org/dc/terms/date>;
     sh:name "調査年度"@ja;
     sh:name "Test year"@en;
-    skos:example "2023"^^xsd:gYear;
+    skos:example "2023";
     sh:maxCount 1;
     sh:minCount 1;
     sh:datatype <http://www.w3.org/2001/XMLSchema#gYear>;
@@ -538,7 +538,7 @@
     sh:path <http://purl.org/dc/terms/date>;
     sh:name "調査年度"@ja;
     sh:name "Test year"@en;
-    skos:example "2025"^^xsd:gYear;
+    skos:example "2025";
     sh:maxCount 1;
     sh:minCount 1;
     sh:datatype <http://www.w3.org/2001/XMLSchema#gYear>;
@@ -674,7 +674,7 @@
     sh:path <http://purl.org/dc/terms/date>;
     sh:name "調査年度"@ja;
     sh:name "Test year"@en;
-    skos:example "\"2023\""^^xsd:gYear;
+    skos:example "2023";
     sh:maxCount 1;
     sh:minCount 1;
     sh:datatype <http://www.w3.org/2001/XMLSchema#gYear>;
@@ -727,7 +727,7 @@
     sh:path <http://schema.org/alternateName>;
     sh:name "略タイトル"@ja;
     sh:name "Short title"@en;
-    skos:example "令和5年度 中学校英語\"";
+    skos:example "令和5年度 中学校英語";
     sh:maxCount 1;
     sh:minCount 1;
     sh:datatype <http://www.w3.org/2001/XMLSchema#string>;
