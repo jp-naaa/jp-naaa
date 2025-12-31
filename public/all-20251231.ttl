@@ -1,10 +1,10 @@
 @prefix bf: <http://id.loc.gov/ontologies/bibframe/>.
-@prefix cs: <https://www.w3.org/jp-cos/>.
+@prefix cs: <https://w3id.org/jp-cos/>.
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix dcat: <http://www.w3.org/ns/dcat#>.
 @prefix dct: <http://purl.org/dc/terms/>.
 @prefix foaf: <http://xmlns.com/foaf/0.1/>.
-@prefix naaa: <https://www.w3.org/jp-naaa/>.
+@prefix naaa: <https://w3id.org/jp-naaa/>.
 @prefix owl: <http://www.w3.org/2002/07/owl#>.
 @prefix pav: <http://purl.org/pav/>.
 @prefix prov: <http://www.w3.org/ns/prov#>.
@@ -25580,7 +25580,7 @@ _:v1.0 a void:Dataset;
     naaa:answer <https://w3id.org/jp-naaa/中英2023-話01/answer> ; #正答例のPDFの情報
     naaa:document <https://w3id.org/jp-naaa/中英2023-話01/document> ; #解説資料のPDFの情報
     naaa:report <https://w3id.org/jp-naaa/中英2023-話01/report> ; #報告書PDFの情報
-    naaa:qestionVideo <https://w3id.org/jp-naaa/中英2023-話01/questionVideo> ;
+    naaa:questionVideo <https://w3id.org/jp-naaa/中英2023-話01/questionVideo> ;
     naaa:questionVideoScript <https://w3id.org/jp-naaa/中英2023-話01/questionVideoScript> ;
     naaa:courseOfStudy <https://w3id.org/jp-cos/LowerSecondary/2017> . #対応する学習指導要領
 #大問に関連するリソースの定義
@@ -25636,7 +25636,7 @@ _:v1.0 a void:Dataset;
     naaa:answer <https://w3id.org/jp-naaa/中英2023-話02/answer> ; #正答例のPDFの情報
     naaa:document <https://w3id.org/jp-naaa/中英2023-話02/document> ; #解説資料のPDFの情報
     naaa:report <https://w3id.org/jp-naaa/中英2023-話02/report> ; #報告書PDFの情報
-    naaa:qestionVideo <https://w3id.org/jp-naaa/中英2023-話02/questionVideo> ;
+    naaa:questionVideo <https://w3id.org/jp-naaa/中英2023-話02/questionVideo> ;
     naaa:questionVideoScript <https://w3id.org/jp-naaa/中英2023-話02/questionVideoScript> ;
     naaa:courseOfStudy <https://w3id.org/jp-cos/LowerSecondary/2017> . #対応する学習指導要領
 #大問に関連するリソースの定義
@@ -30180,7 +30180,7 @@ _:v1.0 a void:Dataset;
     naaa:report <https://w3id.org/jp-naaa/中英2023/report> ; #報告書PDFの情報
     naaa:lessonPlan <https://w3id.org/jp-naaa/中英2023/lessonPlan> ; #授業アイデアの情報
     naaa:questionAudio <https://w3id.org/jp-naaa/中英2023/questionAudio> ;
-    naaa:qestionVideo <https://w3id.org/jp-naaa/中英2023/questionVideo> ;
+    naaa:questionVideo <https://w3id.org/jp-naaa/中英2023/questionVideo> ;
     naaa:questionAudioScript <https://w3id.org/jp-naaa/中英2023/questionAudioScript> ;
     naaa:questionVideoScript <https://w3id.org/jp-naaa/中英2023/questionVideoScript> ;
     naaa:courseOfStudy <https://w3id.org/jp-cos/LowerSecondary/2017> . #対応する学習指導要領
