@@ -5,6 +5,7 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix naaa: <https://w3id.org/jp-naaa/> .
 
 _:toplevel a void:Dataset ;
     dct:title "全国学力調査LOD"@ja ;
