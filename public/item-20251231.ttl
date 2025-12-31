@@ -11,7 +11,7 @@
 #小問リソースのTTL
 <https://w3id.org/jp-naaa/小国2021-01> schema:hasPart <https://w3id.org/jp-naaa/小国2021-01_01/item>.
 <https://w3id.org/jp-naaa/小国2021-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [1]一" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -59,7 +59,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-01> schema:hasPart <https://w3id.org/jp-naaa/小国2021-01_02/item>.
 <https://w3id.org/jp-naaa/小国2021-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [1]二" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -107,7 +107,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-01> schema:hasPart <https://w3id.org/jp-naaa/小国2021-01_03/item>.
 <https://w3id.org/jp-naaa/小国2021-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [1]三" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -155,7 +155,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-02> schema:hasPart <https://w3id.org/jp-naaa/小国2021-02_01/item>.
 <https://w3id.org/jp-naaa/小国2021-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [2]一" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -203,7 +203,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-02> schema:hasPart <https://w3id.org/jp-naaa/小国2021-02_02/item>.
 <https://w3id.org/jp-naaa/小国2021-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [2]二" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -251,7 +251,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-02> schema:hasPart <https://w3id.org/jp-naaa/小国2021-02_03/item>.
 <https://w3id.org/jp-naaa/小国2021-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [2]三" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -299,7 +299,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-02> schema:hasPart <https://w3id.org/jp-naaa/小国2021-02_04/item>.
 <https://w3id.org/jp-naaa/小国2021-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [2]四" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [2]四" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -347,7 +347,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_01/item>.
 <https://w3id.org/jp-naaa/小国2021-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]一" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -395,7 +395,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_02/item>.
 <https://w3id.org/jp-naaa/小国2021-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]二" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -443,7 +443,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_03_01_01/item>.
 <https://w3id.org/jp-naaa/小国2021-03_03_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]三 (1) ア" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]三 (1) ア" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -491,7 +491,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_03_01_02/item>.
 <https://w3id.org/jp-naaa/小国2021-03_03_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]三 (1) ウ" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]三 (1) ウ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -539,7 +539,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_03_01_03/item>.
 <https://w3id.org/jp-naaa/小国2021-03_03_01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]三 (1) エ" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]三 (1) エ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -587,7 +587,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_03_02_01/item>.
 <https://w3id.org/jp-naaa/小国2021-03_03_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]三 (2) イ" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]三 (2) イ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -635,7 +635,7 @@
 
 <https://w3id.org/jp-naaa/小国2021-03> schema:hasPart <https://w3id.org/jp-naaa/小国2021-03_03_02_02/item>.
 <https://w3id.org/jp-naaa/小国2021-03_03_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校国語 [3]三 (2) オ" ; #短めのラベル
+    schema:name "令和3年度 小学校国語 [3]三 (2) オ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -683,7 +683,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-01> schema:hasPart <https://w3id.org/jp-naaa/小国2022-01_01/item>.
 <https://w3id.org/jp-naaa/小国2022-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [1]一" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -731,7 +731,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-01> schema:hasPart <https://w3id.org/jp-naaa/小国2022-01_02/item>.
 <https://w3id.org/jp-naaa/小国2022-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [1]二" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -779,7 +779,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-01> schema:hasPart <https://w3id.org/jp-naaa/小国2022-01_03/item>.
 <https://w3id.org/jp-naaa/小国2022-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [1]三" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -827,7 +827,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-01> schema:hasPart <https://w3id.org/jp-naaa/小国2022-01_04/item>.
 <https://w3id.org/jp-naaa/小国2022-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [1]四" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [1]四" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -875,7 +875,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-02> schema:hasPart <https://w3id.org/jp-naaa/小国2022-02_01_01/item>.
 <https://w3id.org/jp-naaa/小国2022-02_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [2]一 (1)" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [2]一 (1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -923,7 +923,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-02> schema:hasPart <https://w3id.org/jp-naaa/小国2022-02_01_02/item>.
 <https://w3id.org/jp-naaa/小国2022-02_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [2]一 (2)" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [2]一 (2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -971,7 +971,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-02> schema:hasPart <https://w3id.org/jp-naaa/小国2022-02_02/item>.
 <https://w3id.org/jp-naaa/小国2022-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [2]二" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1019,7 +1019,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-02> schema:hasPart <https://w3id.org/jp-naaa/小国2022-02_03/item>.
 <https://w3id.org/jp-naaa/小国2022-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [2]三" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1067,7 +1067,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-03> schema:hasPart <https://w3id.org/jp-naaa/小国2022-03_01/item>.
 <https://w3id.org/jp-naaa/小国2022-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [3]一" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1115,7 +1115,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-03> schema:hasPart <https://w3id.org/jp-naaa/小国2022-03_02/item>.
 <https://w3id.org/jp-naaa/小国2022-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [3]二" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1163,7 +1163,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-03> schema:hasPart <https://w3id.org/jp-naaa/小国2022-03_03_01/item>.
 <https://w3id.org/jp-naaa/小国2022-03_03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [3]三 ア" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [3]三 ア" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1211,7 +1211,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-03> schema:hasPart <https://w3id.org/jp-naaa/小国2022-03_03_02/item>.
 <https://w3id.org/jp-naaa/小国2022-03_03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [3]三 イ" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [3]三 イ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1259,7 +1259,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-03> schema:hasPart <https://w3id.org/jp-naaa/小国2022-03_03_03/item>.
 <https://w3id.org/jp-naaa/小国2022-03_03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [3]三 ウ" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [3]三 ウ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1307,7 +1307,7 @@
 
 <https://w3id.org/jp-naaa/小国2022-03> schema:hasPart <https://w3id.org/jp-naaa/小国2022-03_04/item>.
 <https://w3id.org/jp-naaa/小国2022-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校国語 [3]四" ; #短めのラベル
+    schema:name "令和4年度 小学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -1355,7 +1355,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-01> schema:hasPart <https://w3id.org/jp-naaa/小国2023-01_01/item>.
 <https://w3id.org/jp-naaa/小国2023-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [1]一" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1403,7 +1403,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-01> schema:hasPart <https://w3id.org/jp-naaa/小国2023-01_02/item>.
 <https://w3id.org/jp-naaa/小国2023-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [1]二" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1451,7 +1451,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-01> schema:hasPart <https://w3id.org/jp-naaa/小国2023-01_03_01_01/item>.
 <https://w3id.org/jp-naaa/小国2023-01_03_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [1]三(1)ア" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [1]三(1)ア" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1499,7 +1499,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-01> schema:hasPart <https://w3id.org/jp-naaa/小国2023-01_03_01_02/item>.
 <https://w3id.org/jp-naaa/小国2023-01_03_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [1]三(1)ウ" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [1]三(1)ウ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1547,7 +1547,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-01> schema:hasPart <https://w3id.org/jp-naaa/小国2023-01_03_02_01/item>.
 <https://w3id.org/jp-naaa/小国2023-01_03_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [1]三(2)イ" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [1]三(2)イ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1595,7 +1595,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-01> schema:hasPart <https://w3id.org/jp-naaa/小国2023-01_04/item>.
 <https://w3id.org/jp-naaa/小国2023-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [1]四" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [1]四" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1643,7 +1643,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-02> schema:hasPart <https://w3id.org/jp-naaa/小国2023-02_01/item>.
 <https://w3id.org/jp-naaa/小国2023-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [2]一" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1691,7 +1691,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-02> schema:hasPart <https://w3id.org/jp-naaa/小国2023-02_02/item>.
 <https://w3id.org/jp-naaa/小国2023-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [2]二" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1739,7 +1739,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-02> schema:hasPart <https://w3id.org/jp-naaa/小国2023-02_03/item>.
 <https://w3id.org/jp-naaa/小国2023-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [2]三" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1787,7 +1787,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-02> schema:hasPart <https://w3id.org/jp-naaa/小国2023-02_04/item>.
 <https://w3id.org/jp-naaa/小国2023-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [2]四" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [2]四" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1835,7 +1835,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-03> schema:hasPart <https://w3id.org/jp-naaa/小国2023-03_01_01/item>.
 <https://w3id.org/jp-naaa/小国2023-03_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [3]一(1)" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [3]一(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1883,7 +1883,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-03> schema:hasPart <https://w3id.org/jp-naaa/小国2023-03_01_02/item>.
 <https://w3id.org/jp-naaa/小国2023-03_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [3]一(2)" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [3]一(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1931,7 +1931,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-03> schema:hasPart <https://w3id.org/jp-naaa/小国2023-03_02/item>.
 <https://w3id.org/jp-naaa/小国2023-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [3]二" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -1979,7 +1979,7 @@
 
 <https://w3id.org/jp-naaa/小国2023-03> schema:hasPart <https://w3id.org/jp-naaa/小国2023-03_03/item>.
 <https://w3id.org/jp-naaa/小国2023-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校国語 [3]三" ; #短めのラベル
+    schema:name "令和5年度 小学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -2027,7 +2027,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-01> schema:hasPart <https://w3id.org/jp-naaa/小国2024-01_01/item>.
 <https://w3id.org/jp-naaa/小国2024-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [1]一" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2075,7 +2075,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-01> schema:hasPart <https://w3id.org/jp-naaa/小国2024-01_02_01/item>.
 <https://w3id.org/jp-naaa/小国2024-01_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [1]二(1)" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [1]二(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2123,7 +2123,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-01> schema:hasPart <https://w3id.org/jp-naaa/小国2024-01_02_02/item>.
 <https://w3id.org/jp-naaa/小国2024-01_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [1]二(2)" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [1]二(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2171,7 +2171,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-01> schema:hasPart <https://w3id.org/jp-naaa/小国2024-01_03/item>.
 <https://w3id.org/jp-naaa/小国2024-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [1]三" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2219,7 +2219,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-02> schema:hasPart <https://w3id.org/jp-naaa/小国2024-02_01_01/item>.
 <https://w3id.org/jp-naaa/小国2024-02_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [2]一(1)" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [2]一(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2267,7 +2267,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-02> schema:hasPart <https://w3id.org/jp-naaa/小国2024-02_01_02/item>.
 <https://w3id.org/jp-naaa/小国2024-02_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [2]一(2)" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [2]一(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2315,7 +2315,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-02> schema:hasPart <https://w3id.org/jp-naaa/小国2024-02_02/item>.
 <https://w3id.org/jp-naaa/小国2024-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [2]二" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2363,7 +2363,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-02> schema:hasPart <https://w3id.org/jp-naaa/小国2024-02_03_01/item>.
 <https://w3id.org/jp-naaa/小国2024-02_03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [2]三ア" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [2]三ア" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2411,7 +2411,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-02> schema:hasPart <https://w3id.org/jp-naaa/小国2024-02_03_02/item>.
 <https://w3id.org/jp-naaa/小国2024-02_03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [2]三イ" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [2]三イ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2459,7 +2459,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-03> schema:hasPart <https://w3id.org/jp-naaa/小国2024-03_01/item>.
 <https://w3id.org/jp-naaa/小国2024-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [3]一" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2507,7 +2507,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-03> schema:hasPart <https://w3id.org/jp-naaa/小国2024-03_02_01/item>.
 <https://w3id.org/jp-naaa/小国2024-03_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [3]二(1)" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [3]二(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2555,7 +2555,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-03> schema:hasPart <https://w3id.org/jp-naaa/小国2024-03_02_02/item>.
 <https://w3id.org/jp-naaa/小国2024-03_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [3]二(2)" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [3]二(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2603,7 +2603,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-03> schema:hasPart <https://w3id.org/jp-naaa/小国2024-03_03/item>.
 <https://w3id.org/jp-naaa/小国2024-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [3]三" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2651,7 +2651,7 @@
 
 <https://w3id.org/jp-naaa/小国2024-03> schema:hasPart <https://w3id.org/jp-naaa/小国2024-03_04/item>.
 <https://w3id.org/jp-naaa/小国2024-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校国語 [3]四" ; #短めのラベル
+    schema:name "令和6年度 小学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -2699,7 +2699,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-01> schema:hasPart <https://w3id.org/jp-naaa/小国2025-01_01/item>.
 <https://w3id.org/jp-naaa/小国2025-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [1]一" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -2747,7 +2747,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-01> schema:hasPart <https://w3id.org/jp-naaa/小国2025-01_02/item>.
 <https://w3id.org/jp-naaa/小国2025-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [1]二" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -2795,7 +2795,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-01> schema:hasPart <https://w3id.org/jp-naaa/小国2025-01_03_01/item>.
 <https://w3id.org/jp-naaa/小国2025-01_03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [1]三(1)" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [1]三(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -2843,7 +2843,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-01> schema:hasPart <https://w3id.org/jp-naaa/小国2025-01_03_02/item>.
 <https://w3id.org/jp-naaa/小国2025-01_03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [1]三(2)" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [1]三(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -2891,7 +2891,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-02> schema:hasPart <https://w3id.org/jp-naaa/小国2025-02_01/item>.
 <https://w3id.org/jp-naaa/小国2025-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [2]一" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -2939,7 +2939,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-02> schema:hasPart <https://w3id.org/jp-naaa/小国2025-02_02/item>.
 <https://w3id.org/jp-naaa/小国2025-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [2]二" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -2987,7 +2987,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-02> schema:hasPart <https://w3id.org/jp-naaa/小国2025-02_03/item>.
 <https://w3id.org/jp-naaa/小国2025-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [2]三" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3035,7 +3035,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-02> schema:hasPart <https://w3id.org/jp-naaa/小国2025-02_04_01/item>.
 <https://w3id.org/jp-naaa/小国2025-02_04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [2]四ア" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [2]四ア" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3083,7 +3083,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-02> schema:hasPart <https://w3id.org/jp-naaa/小国2025-02_04_02/item>.
 <https://w3id.org/jp-naaa/小国2025-02_04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [2]四イ" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [2]四イ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3131,7 +3131,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-03> schema:hasPart <https://w3id.org/jp-naaa/小国2025-03_01/item>.
 <https://w3id.org/jp-naaa/小国2025-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [3]一" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3179,7 +3179,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-03> schema:hasPart <https://w3id.org/jp-naaa/小国2025-03_02_01/item>.
 <https://w3id.org/jp-naaa/小国2025-03_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [3]二(1)" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [3]二(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3227,7 +3227,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-03> schema:hasPart <https://w3id.org/jp-naaa/小国2025-03_02_02/item>.
 <https://w3id.org/jp-naaa/小国2025-03_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [3]二(2)" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [3]二(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3275,7 +3275,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-03> schema:hasPart <https://w3id.org/jp-naaa/小国2025-03_03_01/item>.
 <https://w3id.org/jp-naaa/小国2025-03_03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [3]三(1)" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [3]三(1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3323,7 +3323,7 @@
 
 <https://w3id.org/jp-naaa/小国2025-03> schema:hasPart <https://w3id.org/jp-naaa/小国2025-03_03_02/item>.
 <https://w3id.org/jp-naaa/小国2025-03_03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校国語 [3]三(2)" ; #短めのラベル
+    schema:name "令和7年度 小学校国語 [3]三(2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -3371,7 +3371,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-01> schema:hasPart <https://w3id.org/jp-naaa/小算2021-01_01/item>.
 <https://w3id.org/jp-naaa/小算2021-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [1](1)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3419,7 +3419,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-01> schema:hasPart <https://w3id.org/jp-naaa/小算2021-01_02/item>.
 <https://w3id.org/jp-naaa/小算2021-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [1](2)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3467,7 +3467,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-01> schema:hasPart <https://w3id.org/jp-naaa/小算2021-01_03/item>.
 <https://w3id.org/jp-naaa/小算2021-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [1](3)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3515,7 +3515,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-01> schema:hasPart <https://w3id.org/jp-naaa/小算2021-01_04/item>.
 <https://w3id.org/jp-naaa/小算2021-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [1](4)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3563,7 +3563,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-01> schema:hasPart <https://w3id.org/jp-naaa/小算2021-01_05/item>.
 <https://w3id.org/jp-naaa/小算2021-01_05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [1](5)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [1](5)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3611,7 +3611,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-02> schema:hasPart <https://w3id.org/jp-naaa/小算2021-02_01/item>.
 <https://w3id.org/jp-naaa/小算2021-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [2](1)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3659,7 +3659,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-02> schema:hasPart <https://w3id.org/jp-naaa/小算2021-02_02/item>.
 <https://w3id.org/jp-naaa/小算2021-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [2](2)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3707,7 +3707,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-02> schema:hasPart <https://w3id.org/jp-naaa/小算2021-02_03/item>.
 <https://w3id.org/jp-naaa/小算2021-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [2](3)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3755,7 +3755,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-03> schema:hasPart <https://w3id.org/jp-naaa/小算2021-03_01/item>.
 <https://w3id.org/jp-naaa/小算2021-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [3](1)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3803,7 +3803,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-03> schema:hasPart <https://w3id.org/jp-naaa/小算2021-03_02/item>.
 <https://w3id.org/jp-naaa/小算2021-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [3](2)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3851,7 +3851,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-03> schema:hasPart <https://w3id.org/jp-naaa/小算2021-03_03/item>.
 <https://w3id.org/jp-naaa/小算2021-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [3](3)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3899,7 +3899,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-03> schema:hasPart <https://w3id.org/jp-naaa/小算2021-03_04/item>.
 <https://w3id.org/jp-naaa/小算2021-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [3](4)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3947,7 +3947,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-03> schema:hasPart <https://w3id.org/jp-naaa/小算2021-03_05/item>.
 <https://w3id.org/jp-naaa/小算2021-03_05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [3](5)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [3](5)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -3995,7 +3995,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-04> schema:hasPart <https://w3id.org/jp-naaa/小算2021-04_01/item>.
 <https://w3id.org/jp-naaa/小算2021-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [4](1)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -4043,7 +4043,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-04> schema:hasPart <https://w3id.org/jp-naaa/小算2021-04_02/item>.
 <https://w3id.org/jp-naaa/小算2021-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [4](2)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -4091,7 +4091,7 @@
 
 <https://w3id.org/jp-naaa/小算2021-04> schema:hasPart <https://w3id.org/jp-naaa/小算2021-04_03/item>.
 <https://w3id.org/jp-naaa/小算2021-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 小学校算数 [4](3)" ; #短めのラベル
+    schema:name "令和3年度 小学校算数 [4](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -4139,7 +4139,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-01> schema:hasPart <https://w3id.org/jp-naaa/小算2022-01_01/item>.
 <https://w3id.org/jp-naaa/小算2022-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [1](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4187,7 +4187,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-01> schema:hasPart <https://w3id.org/jp-naaa/小算2022-01_02/item>.
 <https://w3id.org/jp-naaa/小算2022-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [1](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4235,7 +4235,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-01> schema:hasPart <https://w3id.org/jp-naaa/小算2022-01_03/item>.
 <https://w3id.org/jp-naaa/小算2022-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [1](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4283,7 +4283,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-01> schema:hasPart <https://w3id.org/jp-naaa/小算2022-01_04/item>.
 <https://w3id.org/jp-naaa/小算2022-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [1](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4331,7 +4331,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-02> schema:hasPart <https://w3id.org/jp-naaa/小算2022-02_01/item>.
 <https://w3id.org/jp-naaa/小算2022-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [2](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4379,7 +4379,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-02> schema:hasPart <https://w3id.org/jp-naaa/小算2022-02_02/item>.
 <https://w3id.org/jp-naaa/小算2022-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [2](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4427,7 +4427,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-02> schema:hasPart <https://w3id.org/jp-naaa/小算2022-02_03/item>.
 <https://w3id.org/jp-naaa/小算2022-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [2](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4475,7 +4475,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-02> schema:hasPart <https://w3id.org/jp-naaa/小算2022-02_04/item>.
 <https://w3id.org/jp-naaa/小算2022-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [2](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [2](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4523,7 +4523,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-03> schema:hasPart <https://w3id.org/jp-naaa/小算2022-03_01/item>.
 <https://w3id.org/jp-naaa/小算2022-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [3](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4571,7 +4571,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-03> schema:hasPart <https://w3id.org/jp-naaa/小算2022-03_02/item>.
 <https://w3id.org/jp-naaa/小算2022-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [3](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4619,7 +4619,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-03> schema:hasPart <https://w3id.org/jp-naaa/小算2022-03_03/item>.
 <https://w3id.org/jp-naaa/小算2022-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [3](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4667,7 +4667,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-03> schema:hasPart <https://w3id.org/jp-naaa/小算2022-03_04/item>.
 <https://w3id.org/jp-naaa/小算2022-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [3](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4715,7 +4715,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-04> schema:hasPart <https://w3id.org/jp-naaa/小算2022-04_01/item>.
 <https://w3id.org/jp-naaa/小算2022-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [4](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4763,7 +4763,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-04> schema:hasPart <https://w3id.org/jp-naaa/小算2022-04_02/item>.
 <https://w3id.org/jp-naaa/小算2022-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [4](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4811,7 +4811,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-04> schema:hasPart <https://w3id.org/jp-naaa/小算2022-04_03/item>.
 <https://w3id.org/jp-naaa/小算2022-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [4](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [4](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4859,7 +4859,7 @@
 
 <https://w3id.org/jp-naaa/小算2022-04> schema:hasPart <https://w3id.org/jp-naaa/小算2022-04_04/item>.
 <https://w3id.org/jp-naaa/小算2022-04_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校算数 [4](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校算数 [4](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -4907,7 +4907,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-01> schema:hasPart <https://w3id.org/jp-naaa/小算2023-01_01/item>.
 <https://w3id.org/jp-naaa/小算2023-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [1](1)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -4955,7 +4955,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-01> schema:hasPart <https://w3id.org/jp-naaa/小算2023-01_02/item>.
 <https://w3id.org/jp-naaa/小算2023-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [1](2)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5003,7 +5003,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-01> schema:hasPart <https://w3id.org/jp-naaa/小算2023-01_03/item>.
 <https://w3id.org/jp-naaa/小算2023-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [1](3)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5051,7 +5051,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-01> schema:hasPart <https://w3id.org/jp-naaa/小算2023-01_04/item>.
 <https://w3id.org/jp-naaa/小算2023-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [1](4)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5099,7 +5099,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-02> schema:hasPart <https://w3id.org/jp-naaa/小算2023-02_01/item>.
 <https://w3id.org/jp-naaa/小算2023-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [2](1)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5147,7 +5147,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-02> schema:hasPart <https://w3id.org/jp-naaa/小算2023-02_02/item>.
 <https://w3id.org/jp-naaa/小算2023-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [2](2)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5195,7 +5195,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-02> schema:hasPart <https://w3id.org/jp-naaa/小算2023-02_03/item>.
 <https://w3id.org/jp-naaa/小算2023-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [2](3)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5243,7 +5243,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-02> schema:hasPart <https://w3id.org/jp-naaa/小算2023-02_04/item>.
 <https://w3id.org/jp-naaa/小算2023-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [2](4)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [2](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5291,7 +5291,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-03> schema:hasPart <https://w3id.org/jp-naaa/小算2023-03_01/item>.
 <https://w3id.org/jp-naaa/小算2023-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [3](1)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5339,7 +5339,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-03> schema:hasPart <https://w3id.org/jp-naaa/小算2023-03_02/item>.
 <https://w3id.org/jp-naaa/小算2023-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [3](2)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5387,7 +5387,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-03> schema:hasPart <https://w3id.org/jp-naaa/小算2023-03_03/item>.
 <https://w3id.org/jp-naaa/小算2023-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [3](3)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5435,7 +5435,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-03> schema:hasPart <https://w3id.org/jp-naaa/小算2023-03_04/item>.
 <https://w3id.org/jp-naaa/小算2023-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [3](4)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5483,7 +5483,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-04> schema:hasPart <https://w3id.org/jp-naaa/小算2023-04_01/item>.
 <https://w3id.org/jp-naaa/小算2023-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [4](1)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5531,7 +5531,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-04> schema:hasPart <https://w3id.org/jp-naaa/小算2023-04_02/item>.
 <https://w3id.org/jp-naaa/小算2023-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [4](2)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5579,7 +5579,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-04> schema:hasPart <https://w3id.org/jp-naaa/小算2023-04_03/item>.
 <https://w3id.org/jp-naaa/小算2023-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [4](3)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [4](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5627,7 +5627,7 @@
 
 <https://w3id.org/jp-naaa/小算2023-04> schema:hasPart <https://w3id.org/jp-naaa/小算2023-04_04/item>.
 <https://w3id.org/jp-naaa/小算2023-04_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 小学校算数 [4](4)" ; #短めのラベル
+    schema:name "令和5年度 小学校算数 [4](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -5675,7 +5675,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-01> schema:hasPart <https://w3id.org/jp-naaa/小算2024-01_01/item>.
 <https://w3id.org/jp-naaa/小算2024-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [1](1)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -5723,7 +5723,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-01> schema:hasPart <https://w3id.org/jp-naaa/小算2024-01_02/item>.
 <https://w3id.org/jp-naaa/小算2024-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [1](2)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -5771,7 +5771,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-02> schema:hasPart <https://w3id.org/jp-naaa/小算2024-02_01/item>.
 <https://w3id.org/jp-naaa/小算2024-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [2](1)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -5819,7 +5819,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-02> schema:hasPart <https://w3id.org/jp-naaa/小算2024-02_02/item>.
 <https://w3id.org/jp-naaa/小算2024-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [2](2)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -5867,7 +5867,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-03> schema:hasPart <https://w3id.org/jp-naaa/小算2024-03_01/item>.
 <https://w3id.org/jp-naaa/小算2024-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [3](1)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -5915,7 +5915,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-03> schema:hasPart <https://w3id.org/jp-naaa/小算2024-03_02/item>.
 <https://w3id.org/jp-naaa/小算2024-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [3](2)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -5963,7 +5963,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-03> schema:hasPart <https://w3id.org/jp-naaa/小算2024-03_03/item>.
 <https://w3id.org/jp-naaa/小算2024-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [3](3)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6011,7 +6011,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-03> schema:hasPart <https://w3id.org/jp-naaa/小算2024-03_04/item>.
 <https://w3id.org/jp-naaa/小算2024-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [3](4)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6059,7 +6059,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-04> schema:hasPart <https://w3id.org/jp-naaa/小算2024-04_01/item>.
 <https://w3id.org/jp-naaa/小算2024-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [4](1)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6107,7 +6107,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-04> schema:hasPart <https://w3id.org/jp-naaa/小算2024-04_02/item>.
 <https://w3id.org/jp-naaa/小算2024-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [4](2)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6155,7 +6155,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-04> schema:hasPart <https://w3id.org/jp-naaa/小算2024-04_03/item>.
 <https://w3id.org/jp-naaa/小算2024-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [4](3)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [4](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6203,7 +6203,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-04> schema:hasPart <https://w3id.org/jp-naaa/小算2024-04_04/item>.
 <https://w3id.org/jp-naaa/小算2024-04_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [4](4)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [4](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6251,7 +6251,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-05> schema:hasPart <https://w3id.org/jp-naaa/小算2024-05_01/item>.
 <https://w3id.org/jp-naaa/小算2024-05_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [5](1)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [5](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6299,7 +6299,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-05> schema:hasPart <https://w3id.org/jp-naaa/小算2024-05_02/item>.
 <https://w3id.org/jp-naaa/小算2024-05_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [5](2)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [5](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6347,7 +6347,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-05> schema:hasPart <https://w3id.org/jp-naaa/小算2024-05_03/item>.
 <https://w3id.org/jp-naaa/小算2024-05_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [5](3)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [5](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6395,7 +6395,7 @@
 
 <https://w3id.org/jp-naaa/小算2024-05> schema:hasPart <https://w3id.org/jp-naaa/小算2024-05_04/item>.
 <https://w3id.org/jp-naaa/小算2024-05_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 小学校算数 [5](4)" ; #短めのラベル
+    schema:name "令和6年度 小学校算数 [5](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -6443,7 +6443,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-01> schema:hasPart <https://w3id.org/jp-naaa/小算2025-01_01/item>.
 <https://w3id.org/jp-naaa/小算2025-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [1](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6491,7 +6491,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-01> schema:hasPart <https://w3id.org/jp-naaa/小算2025-01_02/item>.
 <https://w3id.org/jp-naaa/小算2025-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [1](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6539,7 +6539,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-01> schema:hasPart <https://w3id.org/jp-naaa/小算2025-01_03/item>.
 <https://w3id.org/jp-naaa/小算2025-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [1](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6587,7 +6587,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-01> schema:hasPart <https://w3id.org/jp-naaa/小算2025-01_04/item>.
 <https://w3id.org/jp-naaa/小算2025-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [1](4)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6635,7 +6635,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-02> schema:hasPart <https://w3id.org/jp-naaa/小算2025-02_01/item>.
 <https://w3id.org/jp-naaa/小算2025-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [2](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6683,7 +6683,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-02> schema:hasPart <https://w3id.org/jp-naaa/小算2025-02_02/item>.
 <https://w3id.org/jp-naaa/小算2025-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [2](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6731,7 +6731,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-02> schema:hasPart <https://w3id.org/jp-naaa/小算2025-02_03/item>.
 <https://w3id.org/jp-naaa/小算2025-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [2](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6779,7 +6779,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-02> schema:hasPart <https://w3id.org/jp-naaa/小算2025-02_04/item>.
 <https://w3id.org/jp-naaa/小算2025-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [2](4)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [2](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6827,7 +6827,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-03> schema:hasPart <https://w3id.org/jp-naaa/小算2025-03_01/item>.
 <https://w3id.org/jp-naaa/小算2025-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [3](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6875,7 +6875,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-03> schema:hasPart <https://w3id.org/jp-naaa/小算2025-03_02/item>.
 <https://w3id.org/jp-naaa/小算2025-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校5年算数 [3](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校5年算数 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/定義なし> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6923,7 +6923,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-03> schema:hasPart <https://w3id.org/jp-naaa/小算2025-03_03/item>.
 <https://w3id.org/jp-naaa/小算2025-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [3](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -6971,7 +6971,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-03> schema:hasPart <https://w3id.org/jp-naaa/小算2025-03_04/item>.
 <https://w3id.org/jp-naaa/小算2025-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校5年算数 [3](4)" ; #短めのラベル
+    schema:name "令和7年度 小学校5年算数 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/定義なし> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -7019,7 +7019,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-04> schema:hasPart <https://w3id.org/jp-naaa/小算2025-04_01/item>.
 <https://w3id.org/jp-naaa/小算2025-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [4](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -7067,7 +7067,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-04> schema:hasPart <https://w3id.org/jp-naaa/小算2025-04_02/item>.
 <https://w3id.org/jp-naaa/小算2025-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [4](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -7115,7 +7115,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-04> schema:hasPart <https://w3id.org/jp-naaa/小算2025-04_03/item>.
 <https://w3id.org/jp-naaa/小算2025-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [4](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [4](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -7163,7 +7163,7 @@
 
 <https://w3id.org/jp-naaa/小算2025-04> schema:hasPart <https://w3id.org/jp-naaa/小算2025-04_04/item>.
 <https://w3id.org/jp-naaa/小算2025-04_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校算数 [4](4)" ; #短めのラベル
+    schema:name "令和7年度 小学校算数 [4](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/算数> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -7211,7 +7211,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-01> schema:hasPart <https://w3id.org/jp-naaa/小理2022-01_01/item>.
 <https://w3id.org/jp-naaa/小理2022-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [1](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7259,7 +7259,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-01> schema:hasPart <https://w3id.org/jp-naaa/小理2022-01_02/item>.
 <https://w3id.org/jp-naaa/小理2022-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [1](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7307,7 +7307,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-01> schema:hasPart <https://w3id.org/jp-naaa/小理2022-01_03/item>.
 <https://w3id.org/jp-naaa/小理2022-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [1](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7355,7 +7355,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-01> schema:hasPart <https://w3id.org/jp-naaa/小理2022-01_04/item>.
 <https://w3id.org/jp-naaa/小理2022-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [1](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7403,7 +7403,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-01> schema:hasPart <https://w3id.org/jp-naaa/小理2022-01_05/item>.
 <https://w3id.org/jp-naaa/小理2022-01_05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [1](5)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [1](5)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7451,7 +7451,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-02> schema:hasPart <https://w3id.org/jp-naaa/小理2022-02_01/item>.
 <https://w3id.org/jp-naaa/小理2022-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [2](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7499,7 +7499,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-02> schema:hasPart <https://w3id.org/jp-naaa/小理2022-02_02/item>.
 <https://w3id.org/jp-naaa/小理2022-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [2](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7547,7 +7547,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-02> schema:hasPart <https://w3id.org/jp-naaa/小理2022-02_03/item>.
 <https://w3id.org/jp-naaa/小理2022-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [2](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7595,7 +7595,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-02> schema:hasPart <https://w3id.org/jp-naaa/小理2022-02_04/item>.
 <https://w3id.org/jp-naaa/小理2022-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [2](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [2](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7643,7 +7643,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-03> schema:hasPart <https://w3id.org/jp-naaa/小理2022-03_01/item>.
 <https://w3id.org/jp-naaa/小理2022-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [3](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7691,7 +7691,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-03> schema:hasPart <https://w3id.org/jp-naaa/小理2022-03_02/item>.
 <https://w3id.org/jp-naaa/小理2022-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [3](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7739,7 +7739,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-03> schema:hasPart <https://w3id.org/jp-naaa/小理2022-03_03/item>.
 <https://w3id.org/jp-naaa/小理2022-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [3](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7787,7 +7787,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-03> schema:hasPart <https://w3id.org/jp-naaa/小理2022-03_04/item>.
 <https://w3id.org/jp-naaa/小理2022-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [3](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7835,7 +7835,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-04> schema:hasPart <https://w3id.org/jp-naaa/小理2022-04_01/item>.
 <https://w3id.org/jp-naaa/小理2022-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [4](1)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7883,7 +7883,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-04> schema:hasPart <https://w3id.org/jp-naaa/小理2022-04_02/item>.
 <https://w3id.org/jp-naaa/小理2022-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [4](2)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7931,7 +7931,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-04> schema:hasPart <https://w3id.org/jp-naaa/小理2022-04_03/item>.
 <https://w3id.org/jp-naaa/小理2022-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [4](3)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [4](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -7979,7 +7979,7 @@
 
 <https://w3id.org/jp-naaa/小理2022-04> schema:hasPart <https://w3id.org/jp-naaa/小理2022-04_04/item>.
 <https://w3id.org/jp-naaa/小理2022-04_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 小学校理科 [4](4)" ; #短めのラベル
+    schema:name "令和4年度 小学校理科 [4](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -8027,7 +8027,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-01> schema:hasPart <https://w3id.org/jp-naaa/小理2025-01_01/item>.
 <https://w3id.org/jp-naaa/小理2025-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [1](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8075,7 +8075,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-01> schema:hasPart <https://w3id.org/jp-naaa/小理2025-01_02/item>.
 <https://w3id.org/jp-naaa/小理2025-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [1](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8123,7 +8123,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-01> schema:hasPart <https://w3id.org/jp-naaa/小理2025-01_03/item>.
 <https://w3id.org/jp-naaa/小理2025-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [1](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8171,7 +8171,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-02> schema:hasPart <https://w3id.org/jp-naaa/小理2025-02_01/item>.
 <https://w3id.org/jp-naaa/小理2025-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [2](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8219,7 +8219,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-02> schema:hasPart <https://w3id.org/jp-naaa/小理2025-02_02/item>.
 <https://w3id.org/jp-naaa/小理2025-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [2](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8267,7 +8267,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-02> schema:hasPart <https://w3id.org/jp-naaa/小理2025-02_03/item>.
 <https://w3id.org/jp-naaa/小理2025-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [2](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8315,7 +8315,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-02> schema:hasPart <https://w3id.org/jp-naaa/小理2025-02_04/item>.
 <https://w3id.org/jp-naaa/小理2025-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [2](4)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [2](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8363,7 +8363,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-03> schema:hasPart <https://w3id.org/jp-naaa/小理2025-03_01/item>.
 <https://w3id.org/jp-naaa/小理2025-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [3](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8411,7 +8411,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-03> schema:hasPart <https://w3id.org/jp-naaa/小理2025-03_02/item>.
 <https://w3id.org/jp-naaa/小理2025-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [3](2)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8459,7 +8459,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-03> schema:hasPart <https://w3id.org/jp-naaa/小理2025-03_03/item>.
 <https://w3id.org/jp-naaa/小理2025-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [3](3)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8507,7 +8507,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-03> schema:hasPart <https://w3id.org/jp-naaa/小理2025-03_04/item>.
 <https://w3id.org/jp-naaa/小理2025-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [3](4)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [3](4)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8555,7 +8555,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-04> schema:hasPart <https://w3id.org/jp-naaa/小理2025-04_01/item>.
 <https://w3id.org/jp-naaa/小理2025-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [4](1)" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8603,7 +8603,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-04> schema:hasPart <https://w3id.org/jp-naaa/小理2025-04_02_01/item>.
 <https://w3id.org/jp-naaa/小理2025-04_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [4](2)イウ" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [4](2)イウ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8651,7 +8651,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-04> schema:hasPart <https://w3id.org/jp-naaa/小理2025-04_02_02/item>.
 <https://w3id.org/jp-naaa/小理2025-04_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [4](2)エオ" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [4](2)エオ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8699,7 +8699,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-04> schema:hasPart <https://w3id.org/jp-naaa/小理2025-04_03_01/item>.
 <https://w3id.org/jp-naaa/小理2025-04_03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [4](3)カ" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [4](3)カ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8747,7 +8747,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-04> schema:hasPart <https://w3id.org/jp-naaa/小理2025-04_03_02/item>.
 <https://w3id.org/jp-naaa/小理2025-04_03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [4](3)キ" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [4](3)キ" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8795,7 +8795,7 @@
 
 <https://w3id.org/jp-naaa/小理2025-04> schema:hasPart <https://w3id.org/jp-naaa/小理2025-04_03_03/item>.
 <https://w3id.org/jp-naaa/小理2025-04_03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 小学校理科 [4](3)ク" ; #短めのラベル
+    schema:name "令和7年度 小学校理科 [4](3)ク" ;
     cs:school <https://w3id.org/jp-cos/school/Elementary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/Elementary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -8843,7 +8843,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞01_01/item>.
 <https://w3id.org/jp-naaa/中英2023-聞01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[1](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -8910,7 +8910,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞01_02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[1](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -8977,7 +8977,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞01_03/item>.
 <https://w3id.org/jp-naaa/中英2023-聞01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[1](3)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9044,7 +9044,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞02> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[2]" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9111,7 +9111,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞03> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞03/item>.
 <https://w3id.org/jp-naaa/中英2023-聞03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[3]" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[3]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9178,7 +9178,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞04> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞04/item>.
 <https://w3id.org/jp-naaa/中英2023-聞04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[4]" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[4]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9245,7 +9245,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞05> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞05_01/item>.
 <https://w3id.org/jp-naaa/中英2023-聞05_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[5](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[5](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9293,7 +9293,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞05> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞05_02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞05_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[5](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[5](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9341,7 +9341,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞06> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞06/item>.
 <https://w3id.org/jp-naaa/中英2023-聞06/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[6]" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[6]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9389,7 +9389,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞07> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞07_01/item>.
 <https://w3id.org/jp-naaa/中英2023-聞07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[7](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9437,7 +9437,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞07> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞07_02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[7](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9485,7 +9485,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞08> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞08_01/item>.
 <https://w3id.org/jp-naaa/中英2023-聞08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[8](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9533,7 +9533,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞08> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞08_02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[8](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9581,7 +9581,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞09> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞09_01_01/item>.
 <https://w3id.org/jp-naaa/中英2023-聞09_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[9](1)①" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[9](1)①" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9629,7 +9629,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞09> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞09_01_02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞09_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[9](1)②" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[9](1)②" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9677,7 +9677,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞09> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞09_02/item>.
 <https://w3id.org/jp-naaa/中英2023-聞09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[9](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9725,7 +9725,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-聞10> schema:hasPart <https://w3id.org/jp-naaa/中英2023-聞10/item>.
 <https://w3id.org/jp-naaa/中英2023-聞10/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 聞・読・書[10]" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 聞・読・書[10]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9773,7 +9773,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-話01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-話01_01/item>.
 <https://w3id.org/jp-naaa/中英2023-話01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 話[1](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 話[1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9830,7 +9830,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-話01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-話01_02/item>.
 <https://w3id.org/jp-naaa/中英2023-話01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 話[1](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 話[1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9887,7 +9887,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-話01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-話01_03/item>.
 <https://w3id.org/jp-naaa/中英2023-話01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 話[1](3)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 話[1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -9944,7 +9944,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-話01> schema:hasPart <https://w3id.org/jp-naaa/中英2023-話01_04/item>.
 <https://w3id.org/jp-naaa/中英2023-話01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 話[1](4)" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 話[1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -10001,7 +10001,7 @@
 
 <https://w3id.org/jp-naaa/中英2023-話02> schema:hasPart <https://w3id.org/jp-naaa/中英2023-話02/item>.
 <https://w3id.org/jp-naaa/中英2023-話02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校英語 話[2]" ; #短めのラベル
+    schema:name "令和5年度 中学校英語 話[2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/英語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -10058,7 +10058,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-01> schema:hasPart <https://w3id.org/jp-naaa/中国2021-01_01/item>.
 <https://w3id.org/jp-naaa/中国2021-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [1]一" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10106,7 +10106,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-01> schema:hasPart <https://w3id.org/jp-naaa/中国2021-01_02/item>.
 <https://w3id.org/jp-naaa/中国2021-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [1]二" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10154,7 +10154,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-01> schema:hasPart <https://w3id.org/jp-naaa/中国2021-01_03/item>.
 <https://w3id.org/jp-naaa/中国2021-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [1]三" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10202,7 +10202,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-02> schema:hasPart <https://w3id.org/jp-naaa/中国2021-02_01_01/item>.
 <https://w3id.org/jp-naaa/中国2021-02_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [2]一 (A)" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [2]一 (A)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10250,7 +10250,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-02> schema:hasPart <https://w3id.org/jp-naaa/中国2021-02_01_02/item>.
 <https://w3id.org/jp-naaa/中国2021-02_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [2]一 (B)" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [2]一 (B)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10298,7 +10298,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-02> schema:hasPart <https://w3id.org/jp-naaa/中国2021-02_02/item>.
 <https://w3id.org/jp-naaa/中国2021-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [2]二" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10346,7 +10346,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-03> schema:hasPart <https://w3id.org/jp-naaa/中国2021-03_01/item>.
 <https://w3id.org/jp-naaa/中国2021-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [3]一" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10394,7 +10394,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-03> schema:hasPart <https://w3id.org/jp-naaa/中国2021-03_02_01/item>.
 <https://w3id.org/jp-naaa/中国2021-03_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [3]二 (A）" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [3]二 (A）" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10442,7 +10442,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-03> schema:hasPart <https://w3id.org/jp-naaa/中国2021-03_02_02/item>.
 <https://w3id.org/jp-naaa/中国2021-03_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [3]二 (B)" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [3]二 (B)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10490,7 +10490,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-03> schema:hasPart <https://w3id.org/jp-naaa/中国2021-03_03/item>.
 <https://w3id.org/jp-naaa/中国2021-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [3]三" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10538,7 +10538,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-03> schema:hasPart <https://w3id.org/jp-naaa/中国2021-03_04/item>.
 <https://w3id.org/jp-naaa/中国2021-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [3]四" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10586,7 +10586,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-04> schema:hasPart <https://w3id.org/jp-naaa/中国2021-04_01_01/item>.
 <https://w3id.org/jp-naaa/中国2021-04_01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [4]一 ①" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [4]一 ①" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10634,7 +10634,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-04> schema:hasPart <https://w3id.org/jp-naaa/中国2021-04_01_02/item>.
 <https://w3id.org/jp-naaa/中国2021-04_01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [4]一 ②" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [4]一 ②" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10682,7 +10682,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-04> schema:hasPart <https://w3id.org/jp-naaa/中国2021-04_02/item>.
 <https://w3id.org/jp-naaa/中国2021-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [4]二" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [4]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10730,7 +10730,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-04> schema:hasPart <https://w3id.org/jp-naaa/中国2021-04_03/item>.
 <https://w3id.org/jp-naaa/中国2021-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [4]三" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [4]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10778,7 +10778,7 @@
 
 <https://w3id.org/jp-naaa/中国2021-04> schema:hasPart <https://w3id.org/jp-naaa/中国2021-04_04/item>.
 <https://w3id.org/jp-naaa/中国2021-04_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校国語 [4]四" ; #短めのラベル
+    schema:name "令和3年度 中学校国語 [4]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/国語> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -10826,7 +10826,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-01> schema:hasPart <https://w3id.org/jp-naaa/中国2022-01_01/item>.
 <https://w3id.org/jp-naaa/中国2022-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [1]一" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -10874,7 +10874,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-01> schema:hasPart <https://w3id.org/jp-naaa/中国2022-01_02/item>.
 <https://w3id.org/jp-naaa/中国2022-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [1]二" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -10922,7 +10922,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-01> schema:hasPart <https://w3id.org/jp-naaa/中国2022-01_03/item>.
 <https://w3id.org/jp-naaa/中国2022-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [1]三" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -10970,7 +10970,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-02> schema:hasPart <https://w3id.org/jp-naaa/中国2022-02_01/item>.
 <https://w3id.org/jp-naaa/中国2022-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [2]一" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11018,7 +11018,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-02> schema:hasPart <https://w3id.org/jp-naaa/中国2022-02_02_01/item>.
 <https://w3id.org/jp-naaa/中国2022-02_02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [2]二 ①" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [2]二 ①" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11066,7 +11066,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-02> schema:hasPart <https://w3id.org/jp-naaa/中国2022-02_02_02/item>.
 <https://w3id.org/jp-naaa/中国2022-02_02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [2]二 ③" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [2]二 ③" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11114,7 +11114,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-02> schema:hasPart <https://w3id.org/jp-naaa/中国2022-02_03/item>.
 <https://w3id.org/jp-naaa/中国2022-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [2]三" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11162,7 +11162,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-03> schema:hasPart <https://w3id.org/jp-naaa/中国2022-03_01/item>.
 <https://w3id.org/jp-naaa/中国2022-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [3]一" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11210,7 +11210,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-03> schema:hasPart <https://w3id.org/jp-naaa/中国2022-03_02/item>.
 <https://w3id.org/jp-naaa/中国2022-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [3]二" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11258,7 +11258,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-03> schema:hasPart <https://w3id.org/jp-naaa/中国2022-03_03/item>.
 <https://w3id.org/jp-naaa/中国2022-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [3]三" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11306,7 +11306,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-03> schema:hasPart <https://w3id.org/jp-naaa/中国2022-03_04/item>.
 <https://w3id.org/jp-naaa/中国2022-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [3]四" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11354,7 +11354,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-04> schema:hasPart <https://w3id.org/jp-naaa/中国2022-04_01/item>.
 <https://w3id.org/jp-naaa/中国2022-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [4]一" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [4]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11402,7 +11402,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-04> schema:hasPart <https://w3id.org/jp-naaa/中国2022-04_02/item>.
 <https://w3id.org/jp-naaa/中国2022-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [4]二" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [4]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11450,7 +11450,7 @@
 
 <https://w3id.org/jp-naaa/中国2022-04> schema:hasPart <https://w3id.org/jp-naaa/中国2022-04_03/item>.
 <https://w3id.org/jp-naaa/中国2022-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校国語 [4]三" ; #短めのラベル
+    schema:name "令和4年度 中学校国語 [4]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -11498,7 +11498,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-01> schema:hasPart <https://w3id.org/jp-naaa/中国2023-01_01/item>.
 <https://w3id.org/jp-naaa/中国2023-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [1]一" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11546,7 +11546,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-01> schema:hasPart <https://w3id.org/jp-naaa/中国2023-01_02/item>.
 <https://w3id.org/jp-naaa/中国2023-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [1]二" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11594,7 +11594,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-01> schema:hasPart <https://w3id.org/jp-naaa/中国2023-01_03/item>.
 <https://w3id.org/jp-naaa/中国2023-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [1]三" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11642,7 +11642,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-01> schema:hasPart <https://w3id.org/jp-naaa/中国2023-01_04/item>.
 <https://w3id.org/jp-naaa/中国2023-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [1]四" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [1]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11690,7 +11690,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-02> schema:hasPart <https://w3id.org/jp-naaa/中国2023-02_01/item>.
 <https://w3id.org/jp-naaa/中国2023-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [2]一" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11738,7 +11738,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-02> schema:hasPart <https://w3id.org/jp-naaa/中国2023-02_02/item>.
 <https://w3id.org/jp-naaa/中国2023-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [2]二" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11786,7 +11786,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-02> schema:hasPart <https://w3id.org/jp-naaa/中国2023-02_03/item>.
 <https://w3id.org/jp-naaa/中国2023-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [2]三" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11834,7 +11834,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-02> schema:hasPart <https://w3id.org/jp-naaa/中国2023-02_04/item>.
 <https://w3id.org/jp-naaa/中国2023-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [2]四" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [2]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11882,7 +11882,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-03> schema:hasPart <https://w3id.org/jp-naaa/中国2023-03_01/item>.
 <https://w3id.org/jp-naaa/中国2023-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [3]一" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11930,7 +11930,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-03> schema:hasPart <https://w3id.org/jp-naaa/中国2023-03_02/item>.
 <https://w3id.org/jp-naaa/中国2023-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [3]二" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -11978,7 +11978,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-03> schema:hasPart <https://w3id.org/jp-naaa/中国2023-03_03/item>.
 <https://w3id.org/jp-naaa/中国2023-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [3]三" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -12026,7 +12026,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-03> schema:hasPart <https://w3id.org/jp-naaa/中国2023-03_04/item>.
 <https://w3id.org/jp-naaa/中国2023-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [3]四" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -12074,7 +12074,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-04> schema:hasPart <https://w3id.org/jp-naaa/中国2023-04_01/item>.
 <https://w3id.org/jp-naaa/中国2023-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [4]一" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [4]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -12122,7 +12122,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-04> schema:hasPart <https://w3id.org/jp-naaa/中国2023-04_02/item>.
 <https://w3id.org/jp-naaa/中国2023-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [4]二" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [4]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -12170,7 +12170,7 @@
 
 <https://w3id.org/jp-naaa/中国2023-04> schema:hasPart <https://w3id.org/jp-naaa/中国2023-04_03/item>.
 <https://w3id.org/jp-naaa/中国2023-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校国語 [4]三" ; #短めのラベル
+    schema:name "令和5年度 中学校国語 [4]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -12218,7 +12218,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-01> schema:hasPart <https://w3id.org/jp-naaa/中国2024-01_01/item>.
 <https://w3id.org/jp-naaa/中国2024-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [1]一" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12266,7 +12266,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-01> schema:hasPart <https://w3id.org/jp-naaa/中国2024-01_02/item>.
 <https://w3id.org/jp-naaa/中国2024-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [1]二" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12314,7 +12314,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-01> schema:hasPart <https://w3id.org/jp-naaa/中国2024-01_03/item>.
 <https://w3id.org/jp-naaa/中国2024-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [1]三" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12362,7 +12362,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-01> schema:hasPart <https://w3id.org/jp-naaa/中国2024-01_04/item>.
 <https://w3id.org/jp-naaa/中国2024-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [1]四" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [1]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12410,7 +12410,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-02> schema:hasPart <https://w3id.org/jp-naaa/中国2024-02_01/item>.
 <https://w3id.org/jp-naaa/中国2024-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [2]一" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12458,7 +12458,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-02> schema:hasPart <https://w3id.org/jp-naaa/中国2024-02_02/item>.
 <https://w3id.org/jp-naaa/中国2024-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [2]二" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12506,7 +12506,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-02> schema:hasPart <https://w3id.org/jp-naaa/中国2024-02_03/item>.
 <https://w3id.org/jp-naaa/中国2024-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [2]三" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12554,7 +12554,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-02> schema:hasPart <https://w3id.org/jp-naaa/中国2024-02_04/item>.
 <https://w3id.org/jp-naaa/中国2024-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [2]四" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [2]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12602,7 +12602,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-03> schema:hasPart <https://w3id.org/jp-naaa/中国2024-03_01/item>.
 <https://w3id.org/jp-naaa/中国2024-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [3]一" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12650,7 +12650,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-03> schema:hasPart <https://w3id.org/jp-naaa/中国2024-03_02/item>.
 <https://w3id.org/jp-naaa/中国2024-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [3]二" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12698,7 +12698,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-03> schema:hasPart <https://w3id.org/jp-naaa/中国2024-03_03/item>.
 <https://w3id.org/jp-naaa/中国2024-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [3]三" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12746,7 +12746,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-03> schema:hasPart <https://w3id.org/jp-naaa/中国2024-03_04/item>.
 <https://w3id.org/jp-naaa/中国2024-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [3]四" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12794,7 +12794,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-04> schema:hasPart <https://w3id.org/jp-naaa/中国2024-04_01/item>.
 <https://w3id.org/jp-naaa/中国2024-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [4]一" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [4]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12842,7 +12842,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-04> schema:hasPart <https://w3id.org/jp-naaa/中国2024-04_02/item>.
 <https://w3id.org/jp-naaa/中国2024-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [4]二" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [4]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12890,7 +12890,7 @@
 
 <https://w3id.org/jp-naaa/中国2024-04> schema:hasPart <https://w3id.org/jp-naaa/中国2024-04_03/item>.
 <https://w3id.org/jp-naaa/中国2024-04_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校国語 [4]三" ; #短めのラベル
+    schema:name "令和6年度 中学校国語 [4]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -12938,7 +12938,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-01> schema:hasPart <https://w3id.org/jp-naaa/中国2025-01_01/item>.
 <https://w3id.org/jp-naaa/中国2025-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [1]一" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [1]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -12986,7 +12986,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-01> schema:hasPart <https://w3id.org/jp-naaa/中国2025-01_02/item>.
 <https://w3id.org/jp-naaa/中国2025-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [1]二" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [1]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13034,7 +13034,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-01> schema:hasPart <https://w3id.org/jp-naaa/中国2025-01_03/item>.
 <https://w3id.org/jp-naaa/中国2025-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [1]三" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [1]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13082,7 +13082,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-01> schema:hasPart <https://w3id.org/jp-naaa/中国2025-01_04/item>.
 <https://w3id.org/jp-naaa/中国2025-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [1]四" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [1]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13130,7 +13130,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-02> schema:hasPart <https://w3id.org/jp-naaa/中国2025-02_01/item>.
 <https://w3id.org/jp-naaa/中国2025-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [2]一" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [2]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13178,7 +13178,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-02> schema:hasPart <https://w3id.org/jp-naaa/中国2025-02_02/item>.
 <https://w3id.org/jp-naaa/中国2025-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [2]二" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [2]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13226,7 +13226,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-02> schema:hasPart <https://w3id.org/jp-naaa/中国2025-02_03/item>.
 <https://w3id.org/jp-naaa/中国2025-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [2]三" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [2]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13274,7 +13274,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-02> schema:hasPart <https://w3id.org/jp-naaa/中国2025-02_04/item>.
 <https://w3id.org/jp-naaa/中国2025-02_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [2]四" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [2]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13322,7 +13322,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-03> schema:hasPart <https://w3id.org/jp-naaa/中国2025-03_01/item>.
 <https://w3id.org/jp-naaa/中国2025-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [3]一" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [3]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13370,7 +13370,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-03> schema:hasPart <https://w3id.org/jp-naaa/中国2025-03_02/item>.
 <https://w3id.org/jp-naaa/中国2025-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [3]二" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [3]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13418,7 +13418,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-03> schema:hasPart <https://w3id.org/jp-naaa/中国2025-03_03/item>.
 <https://w3id.org/jp-naaa/中国2025-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [3]三" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [3]三" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13466,7 +13466,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-03> schema:hasPart <https://w3id.org/jp-naaa/中国2025-03_04/item>.
 <https://w3id.org/jp-naaa/中国2025-03_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [3]四" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [3]四" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13514,7 +13514,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-04> schema:hasPart <https://w3id.org/jp-naaa/中国2025-04_01/item>.
 <https://w3id.org/jp-naaa/中国2025-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [4]一" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [4]一" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13562,7 +13562,7 @@
 
 <https://w3id.org/jp-naaa/中国2025-04> schema:hasPart <https://w3id.org/jp-naaa/中国2025-04_02/item>.
 <https://w3id.org/jp-naaa/中国2025-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校国語 [4]二" ; #短めのラベル
+    schema:name "令和7年度 中学校国語 [4]二" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/国語> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -13610,7 +13610,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-01> schema:hasPart <https://w3id.org/jp-naaa/中数2021-01/item>.
 <https://w3id.org/jp-naaa/中数2021-01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [1]" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [1]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13658,7 +13658,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-02> schema:hasPart <https://w3id.org/jp-naaa/中数2021-02/item>.
 <https://w3id.org/jp-naaa/中数2021-02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [2]" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13706,7 +13706,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-03> schema:hasPart <https://w3id.org/jp-naaa/中数2021-03/item>.
 <https://w3id.org/jp-naaa/中数2021-03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [3]" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [3]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13754,7 +13754,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-04> schema:hasPart <https://w3id.org/jp-naaa/中数2021-04/item>.
 <https://w3id.org/jp-naaa/中数2021-04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [4]" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [4]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13802,7 +13802,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-05> schema:hasPart <https://w3id.org/jp-naaa/中数2021-05/item>.
 <https://w3id.org/jp-naaa/中数2021-05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [5]" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [5]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13850,7 +13850,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-06> schema:hasPart <https://w3id.org/jp-naaa/中数2021-06_01/item>.
 <https://w3id.org/jp-naaa/中数2021-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [6](1)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13898,7 +13898,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-06> schema:hasPart <https://w3id.org/jp-naaa/中数2021-06_02/item>.
 <https://w3id.org/jp-naaa/中数2021-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [6](2)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13946,7 +13946,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-06> schema:hasPart <https://w3id.org/jp-naaa/中数2021-06_03/item>.
 <https://w3id.org/jp-naaa/中数2021-06_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [6](3)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [6](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -13994,7 +13994,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-07> schema:hasPart <https://w3id.org/jp-naaa/中数2021-07_01/item>.
 <https://w3id.org/jp-naaa/中数2021-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [7](1)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14042,7 +14042,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-07> schema:hasPart <https://w3id.org/jp-naaa/中数2021-07_02/item>.
 <https://w3id.org/jp-naaa/中数2021-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [7](2)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14090,7 +14090,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-08> schema:hasPart <https://w3id.org/jp-naaa/中数2021-08_01/item>.
 <https://w3id.org/jp-naaa/中数2021-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [8](1)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14138,7 +14138,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-08> schema:hasPart <https://w3id.org/jp-naaa/中数2021-08_02/item>.
 <https://w3id.org/jp-naaa/中数2021-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [8](2)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14186,7 +14186,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-08> schema:hasPart <https://w3id.org/jp-naaa/中数2021-08_03/item>.
 <https://w3id.org/jp-naaa/中数2021-08_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [8](3)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [8](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14234,7 +14234,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-09> schema:hasPart <https://w3id.org/jp-naaa/中数2021-09_01/item>.
 <https://w3id.org/jp-naaa/中数2021-09_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [9](1)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [9](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14282,7 +14282,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-09> schema:hasPart <https://w3id.org/jp-naaa/中数2021-09_02/item>.
 <https://w3id.org/jp-naaa/中数2021-09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [9](2)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14330,7 +14330,7 @@
 
 <https://w3id.org/jp-naaa/中数2021-09> schema:hasPart <https://w3id.org/jp-naaa/中数2021-09_03/item>.
 <https://w3id.org/jp-naaa/中数2021-09_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和3年度 中学校数学 [9](3)" ; #短めのラベル
+    schema:name "令和3年度 中学校数学 [9](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2008/数学> ; #教科
     dct:date "2021"^^xsd:gYear ; #実施年度
@@ -14378,7 +14378,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-01> schema:hasPart <https://w3id.org/jp-naaa/中数2022-01/item>.
 <https://w3id.org/jp-naaa/中数2022-01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [1]" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [1]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14426,7 +14426,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-02> schema:hasPart <https://w3id.org/jp-naaa/中数2022-02/item>.
 <https://w3id.org/jp-naaa/中数2022-02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [2]" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14474,7 +14474,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-03> schema:hasPart <https://w3id.org/jp-naaa/中数2022-03/item>.
 <https://w3id.org/jp-naaa/中数2022-03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [3]" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [3]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14522,7 +14522,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-04> schema:hasPart <https://w3id.org/jp-naaa/中数2022-04/item>.
 <https://w3id.org/jp-naaa/中数2022-04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [4]" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [4]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14570,7 +14570,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-05> schema:hasPart <https://w3id.org/jp-naaa/中数2022-05/item>.
 <https://w3id.org/jp-naaa/中数2022-05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [5]" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [5]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14618,7 +14618,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-06> schema:hasPart <https://w3id.org/jp-naaa/中数2022-06_01/item>.
 <https://w3id.org/jp-naaa/中数2022-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [6](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14666,7 +14666,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-06> schema:hasPart <https://w3id.org/jp-naaa/中数2022-06_02/item>.
 <https://w3id.org/jp-naaa/中数2022-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [6](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14714,7 +14714,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-06> schema:hasPart <https://w3id.org/jp-naaa/中数2022-06_03/item>.
 <https://w3id.org/jp-naaa/中数2022-06_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [6](3)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [6](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14762,7 +14762,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-07> schema:hasPart <https://w3id.org/jp-naaa/中数2022-07_01/item>.
 <https://w3id.org/jp-naaa/中数2022-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [7](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14810,7 +14810,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-07> schema:hasPart <https://w3id.org/jp-naaa/中数2022-07_02/item>.
 <https://w3id.org/jp-naaa/中数2022-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [7](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14858,7 +14858,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-08> schema:hasPart <https://w3id.org/jp-naaa/中数2022-08_01/item>.
 <https://w3id.org/jp-naaa/中数2022-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [8](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14906,7 +14906,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-08> schema:hasPart <https://w3id.org/jp-naaa/中数2022-08_02/item>.
 <https://w3id.org/jp-naaa/中数2022-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [8](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -14954,7 +14954,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-09> schema:hasPart <https://w3id.org/jp-naaa/中数2022-09_01/item>.
 <https://w3id.org/jp-naaa/中数2022-09_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [9](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [9](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -15002,7 +15002,7 @@
 
 <https://w3id.org/jp-naaa/中数2022-09> schema:hasPart <https://w3id.org/jp-naaa/中数2022-09_02/item>.
 <https://w3id.org/jp-naaa/中数2022-09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校数学 [9](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校数学 [9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -15050,7 +15050,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-01> schema:hasPart <https://w3id.org/jp-naaa/中数2023-01/item>.
 <https://w3id.org/jp-naaa/中数2023-01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [1]" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [1]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15098,7 +15098,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-02> schema:hasPart <https://w3id.org/jp-naaa/中数2023-02/item>.
 <https://w3id.org/jp-naaa/中数2023-02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [2]" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15146,7 +15146,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-03> schema:hasPart <https://w3id.org/jp-naaa/中数2023-03/item>.
 <https://w3id.org/jp-naaa/中数2023-03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [3]" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [3]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15194,7 +15194,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-04> schema:hasPart <https://w3id.org/jp-naaa/中数2023-04/item>.
 <https://w3id.org/jp-naaa/中数2023-04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [4]" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [4]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15242,7 +15242,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-05> schema:hasPart <https://w3id.org/jp-naaa/中数2023-05/item>.
 <https://w3id.org/jp-naaa/中数2023-05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [5]" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [5]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15290,7 +15290,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-06> schema:hasPart <https://w3id.org/jp-naaa/中数2023-06_01/item>.
 <https://w3id.org/jp-naaa/中数2023-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [6](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15338,7 +15338,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-06> schema:hasPart <https://w3id.org/jp-naaa/中数2023-06_02/item>.
 <https://w3id.org/jp-naaa/中数2023-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [6](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15386,7 +15386,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-06> schema:hasPart <https://w3id.org/jp-naaa/中数2023-06_03/item>.
 <https://w3id.org/jp-naaa/中数2023-06_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [6](3)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [6](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15434,7 +15434,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-07> schema:hasPart <https://w3id.org/jp-naaa/中数2023-07_01/item>.
 <https://w3id.org/jp-naaa/中数2023-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [7](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15482,7 +15482,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-07> schema:hasPart <https://w3id.org/jp-naaa/中数2023-07_02/item>.
 <https://w3id.org/jp-naaa/中数2023-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [7](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15530,7 +15530,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-08> schema:hasPart <https://w3id.org/jp-naaa/中数2023-08_01/item>.
 <https://w3id.org/jp-naaa/中数2023-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [8](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15578,7 +15578,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-08> schema:hasPart <https://w3id.org/jp-naaa/中数2023-08_02/item>.
 <https://w3id.org/jp-naaa/中数2023-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [8](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15626,7 +15626,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-08> schema:hasPart <https://w3id.org/jp-naaa/中数2023-08_03/item>.
 <https://w3id.org/jp-naaa/中数2023-08_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [8](3)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [8](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15674,7 +15674,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-09> schema:hasPart <https://w3id.org/jp-naaa/中数2023-09_01/item>.
 <https://w3id.org/jp-naaa/中数2023-09_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [9](1)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [9](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15722,7 +15722,7 @@
 
 <https://w3id.org/jp-naaa/中数2023-09> schema:hasPart <https://w3id.org/jp-naaa/中数2023-09_02/item>.
 <https://w3id.org/jp-naaa/中数2023-09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和5年度 中学校数学 [9](2)" ; #短めのラベル
+    schema:name "令和5年度 中学校数学 [9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2023"^^xsd:gYear ; #実施年度
@@ -15770,7 +15770,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-01> schema:hasPart <https://w3id.org/jp-naaa/中数2024-01/item>.
 <https://w3id.org/jp-naaa/中数2024-01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [1]" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [1]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -15818,7 +15818,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-02> schema:hasPart <https://w3id.org/jp-naaa/中数2024-02/item>.
 <https://w3id.org/jp-naaa/中数2024-02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [2]" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -15866,7 +15866,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-03> schema:hasPart <https://w3id.org/jp-naaa/中数2024-03/item>.
 <https://w3id.org/jp-naaa/中数2024-03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [3]" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [3]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -15914,7 +15914,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-04> schema:hasPart <https://w3id.org/jp-naaa/中数2024-04/item>.
 <https://w3id.org/jp-naaa/中数2024-04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [4]" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [4]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -15962,7 +15962,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-05> schema:hasPart <https://w3id.org/jp-naaa/中数2024-05/item>.
 <https://w3id.org/jp-naaa/中数2024-05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [5]" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [5]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16010,7 +16010,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-06> schema:hasPart <https://w3id.org/jp-naaa/中数2024-06_01/item>.
 <https://w3id.org/jp-naaa/中数2024-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [6](1)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16058,7 +16058,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-06> schema:hasPart <https://w3id.org/jp-naaa/中数2024-06_02/item>.
 <https://w3id.org/jp-naaa/中数2024-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [6](2)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16106,7 +16106,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-06> schema:hasPart <https://w3id.org/jp-naaa/中数2024-06_03/item>.
 <https://w3id.org/jp-naaa/中数2024-06_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [6](3)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [6](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16154,7 +16154,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-07> schema:hasPart <https://w3id.org/jp-naaa/中数2024-07_01/item>.
 <https://w3id.org/jp-naaa/中数2024-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [7](1)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16202,7 +16202,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-07> schema:hasPart <https://w3id.org/jp-naaa/中数2024-07_02/item>.
 <https://w3id.org/jp-naaa/中数2024-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [7](2)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16250,7 +16250,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-07> schema:hasPart <https://w3id.org/jp-naaa/中数2024-07_03/item>.
 <https://w3id.org/jp-naaa/中数2024-07_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [7](3)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [7](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16298,7 +16298,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-08> schema:hasPart <https://w3id.org/jp-naaa/中数2024-08_01/item>.
 <https://w3id.org/jp-naaa/中数2024-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [8](1)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16346,7 +16346,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-08> schema:hasPart <https://w3id.org/jp-naaa/中数2024-08_02/item>.
 <https://w3id.org/jp-naaa/中数2024-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [8](2)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16394,7 +16394,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-08> schema:hasPart <https://w3id.org/jp-naaa/中数2024-08_03/item>.
 <https://w3id.org/jp-naaa/中数2024-08_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [8](3)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [8](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16442,7 +16442,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-09> schema:hasPart <https://w3id.org/jp-naaa/中数2024-09_01/item>.
 <https://w3id.org/jp-naaa/中数2024-09_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [9](1)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [9](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16490,7 +16490,7 @@
 
 <https://w3id.org/jp-naaa/中数2024-09> schema:hasPart <https://w3id.org/jp-naaa/中数2024-09_02/item>.
 <https://w3id.org/jp-naaa/中数2024-09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和6年度 中学校算数 [9](2)" ; #短めのラベル
+    schema:name "令和6年度 中学校算数 [9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2024"^^xsd:gYear ; #実施年度
@@ -16538,7 +16538,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-01> schema:hasPart <https://w3id.org/jp-naaa/中数2025-01/item>.
 <https://w3id.org/jp-naaa/中数2025-01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [1]" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [1]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16586,7 +16586,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-02> schema:hasPart <https://w3id.org/jp-naaa/中数2025-02/item>.
 <https://w3id.org/jp-naaa/中数2025-02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [2]" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [2]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16634,7 +16634,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-03> schema:hasPart <https://w3id.org/jp-naaa/中数2025-03/item>.
 <https://w3id.org/jp-naaa/中数2025-03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [3]" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [3]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16682,7 +16682,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-04> schema:hasPart <https://w3id.org/jp-naaa/中数2025-04/item>.
 <https://w3id.org/jp-naaa/中数2025-04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [4]" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [4]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16730,7 +16730,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-05> schema:hasPart <https://w3id.org/jp-naaa/中数2025-05/item>.
 <https://w3id.org/jp-naaa/中数2025-05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [5]" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [5]" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16778,7 +16778,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-06> schema:hasPart <https://w3id.org/jp-naaa/中数2025-06_01/item>.
 <https://w3id.org/jp-naaa/中数2025-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [6](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16826,7 +16826,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-06> schema:hasPart <https://w3id.org/jp-naaa/中数2025-06_02/item>.
 <https://w3id.org/jp-naaa/中数2025-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [6](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16874,7 +16874,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-06> schema:hasPart <https://w3id.org/jp-naaa/中数2025-06_03/item>.
 <https://w3id.org/jp-naaa/中数2025-06_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [6](3)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [6](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16922,7 +16922,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-07> schema:hasPart <https://w3id.org/jp-naaa/中数2025-07_01/item>.
 <https://w3id.org/jp-naaa/中数2025-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [7](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -16970,7 +16970,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-07> schema:hasPart <https://w3id.org/jp-naaa/中数2025-07_02/item>.
 <https://w3id.org/jp-naaa/中数2025-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [7](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -17018,7 +17018,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-08> schema:hasPart <https://w3id.org/jp-naaa/中数2025-08_01/item>.
 <https://w3id.org/jp-naaa/中数2025-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [8](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -17066,7 +17066,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-08> schema:hasPart <https://w3id.org/jp-naaa/中数2025-08_02/item>.
 <https://w3id.org/jp-naaa/中数2025-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [8](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -17114,7 +17114,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-09> schema:hasPart <https://w3id.org/jp-naaa/中数2025-09_01/item>.
 <https://w3id.org/jp-naaa/中数2025-09_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [9](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [9](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -17162,7 +17162,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-09> schema:hasPart <https://w3id.org/jp-naaa/中数2025-09_02/item>.
 <https://w3id.org/jp-naaa/中数2025-09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [9](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -17210,7 +17210,7 @@
 
 <https://w3id.org/jp-naaa/中数2025-09> schema:hasPart <https://w3id.org/jp-naaa/中数2025-09_03/item>.
 <https://w3id.org/jp-naaa/中数2025-09_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校数学 [9](3)" ; #短めのラベル
+    schema:name "令和7年度 中学校数学 [9](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/数学> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -17258,7 +17258,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-01> schema:hasPart <https://w3id.org/jp-naaa/中理2022-01_01/item>.
 <https://w3id.org/jp-naaa/中理2022-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [1](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17306,7 +17306,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-01> schema:hasPart <https://w3id.org/jp-naaa/中理2022-01_02/item>.
 <https://w3id.org/jp-naaa/中理2022-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [1](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17354,7 +17354,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-02> schema:hasPart <https://w3id.org/jp-naaa/中理2022-02_01/item>.
 <https://w3id.org/jp-naaa/中理2022-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [2](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17402,7 +17402,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-02> schema:hasPart <https://w3id.org/jp-naaa/中理2022-02_02/item>.
 <https://w3id.org/jp-naaa/中理2022-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [2](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17450,7 +17450,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-02> schema:hasPart <https://w3id.org/jp-naaa/中理2022-02_03/item>.
 <https://w3id.org/jp-naaa/中理2022-02_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [2](3)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [2](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17498,7 +17498,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-03> schema:hasPart <https://w3id.org/jp-naaa/中理2022-03_01/item>.
 <https://w3id.org/jp-naaa/中理2022-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [3](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17546,7 +17546,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-03> schema:hasPart <https://w3id.org/jp-naaa/中理2022-03_02/item>.
 <https://w3id.org/jp-naaa/中理2022-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [3](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17594,7 +17594,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-03> schema:hasPart <https://w3id.org/jp-naaa/中理2022-03_03/item>.
 <https://w3id.org/jp-naaa/中理2022-03_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [3](3)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [3](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17642,7 +17642,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-04> schema:hasPart <https://w3id.org/jp-naaa/中理2022-04_01/item>.
 <https://w3id.org/jp-naaa/中理2022-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [4](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17690,7 +17690,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-04> schema:hasPart <https://w3id.org/jp-naaa/中理2022-04_02/item>.
 <https://w3id.org/jp-naaa/中理2022-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [4](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17738,7 +17738,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-05> schema:hasPart <https://w3id.org/jp-naaa/中理2022-05_01/item>.
 <https://w3id.org/jp-naaa/中理2022-05_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [5](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [5](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17786,7 +17786,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-05> schema:hasPart <https://w3id.org/jp-naaa/中理2022-05_02/item>.
 <https://w3id.org/jp-naaa/中理2022-05_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [5](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [5](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17834,7 +17834,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-05> schema:hasPart <https://w3id.org/jp-naaa/中理2022-05_03/item>.
 <https://w3id.org/jp-naaa/中理2022-05_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [5](3)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [5](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17882,7 +17882,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-06> schema:hasPart <https://w3id.org/jp-naaa/中理2022-06_01/item>.
 <https://w3id.org/jp-naaa/中理2022-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [6](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17930,7 +17930,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-06> schema:hasPart <https://w3id.org/jp-naaa/中理2022-06_02/item>.
 <https://w3id.org/jp-naaa/中理2022-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [6](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -17978,7 +17978,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-06> schema:hasPart <https://w3id.org/jp-naaa/中理2022-06_03/item>.
 <https://w3id.org/jp-naaa/中理2022-06_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [6](3)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [6](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -18026,7 +18026,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-07> schema:hasPart <https://w3id.org/jp-naaa/中理2022-07_01/item>.
 <https://w3id.org/jp-naaa/中理2022-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [7](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -18074,7 +18074,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-07> schema:hasPart <https://w3id.org/jp-naaa/中理2022-07_02/item>.
 <https://w3id.org/jp-naaa/中理2022-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [7](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -18122,7 +18122,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-08> schema:hasPart <https://w3id.org/jp-naaa/中理2022-08_01/item>.
 <https://w3id.org/jp-naaa/中理2022-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [8](1)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -18170,7 +18170,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-08> schema:hasPart <https://w3id.org/jp-naaa/中理2022-08_02/item>.
 <https://w3id.org/jp-naaa/中理2022-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [8](2)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -18218,7 +18218,7 @@
 
 <https://w3id.org/jp-naaa/中理2022-08> schema:hasPart <https://w3id.org/jp-naaa/中理2022-08_03/item>.
 <https://w3id.org/jp-naaa/中理2022-08_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和4年度 中学校理科 [8](3)" ; #短めのラベル
+    schema:name "令和4年度 中学校理科 [8](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2022"^^xsd:gYear ; #実施年度
@@ -18266,7 +18266,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-01> schema:hasPart <https://w3id.org/jp-naaa/中理2025-01_01/item>.
 <https://w3id.org/jp-naaa/中理2025-01_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [1](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [1](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18314,7 +18314,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-01> schema:hasPart <https://w3id.org/jp-naaa/中理2025-01_02/item>.
 <https://w3id.org/jp-naaa/中理2025-01_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [1](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [1](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18362,7 +18362,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-01> schema:hasPart <https://w3id.org/jp-naaa/中理2025-01_03/item>.
 <https://w3id.org/jp-naaa/中理2025-01_03/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [1](3)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [1](3)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18410,7 +18410,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-01> schema:hasPart <https://w3id.org/jp-naaa/中理2025-01_04/item>.
 <https://w3id.org/jp-naaa/中理2025-01_04/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [1](4)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [1](4)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18458,7 +18458,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-01> schema:hasPart <https://w3id.org/jp-naaa/中理2025-01_05/item>.
 <https://w3id.org/jp-naaa/中理2025-01_05/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [1](5)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [1](5)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18506,7 +18506,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-01> schema:hasPart <https://w3id.org/jp-naaa/中理2025-01_06/item>.
 <https://w3id.org/jp-naaa/中理2025-01_06/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [1](6)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [1](6)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18554,7 +18554,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-02> schema:hasPart <https://w3id.org/jp-naaa/中理2025-02_01/item>.
 <https://w3id.org/jp-naaa/中理2025-02_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [2](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [2](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18602,7 +18602,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-02> schema:hasPart <https://w3id.org/jp-naaa/中理2025-02_02/item>.
 <https://w3id.org/jp-naaa/中理2025-02_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [2](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [2](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18650,7 +18650,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-03> schema:hasPart <https://w3id.org/jp-naaa/中理2025-03_01/item>.
 <https://w3id.org/jp-naaa/中理2025-03_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [3](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [3](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18698,7 +18698,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-03> schema:hasPart <https://w3id.org/jp-naaa/中理2025-03_02/item>.
 <https://w3id.org/jp-naaa/中理2025-03_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [3](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [3](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18746,7 +18746,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-04> schema:hasPart <https://w3id.org/jp-naaa/中理2025-04_01/item>.
 <https://w3id.org/jp-naaa/中理2025-04_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [4](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [4](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18794,7 +18794,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-04> schema:hasPart <https://w3id.org/jp-naaa/中理2025-04_02/item>.
 <https://w3id.org/jp-naaa/中理2025-04_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [4](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [4](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18842,7 +18842,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-05> schema:hasPart <https://w3id.org/jp-naaa/中理2025-05_01/item>.
 <https://w3id.org/jp-naaa/中理2025-05_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [5](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [5](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18890,7 +18890,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-05> schema:hasPart <https://w3id.org/jp-naaa/中理2025-05_02/item>.
 <https://w3id.org/jp-naaa/中理2025-05_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [5](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [5](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18938,7 +18938,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-06> schema:hasPart <https://w3id.org/jp-naaa/中理2025-06_01/item>.
 <https://w3id.org/jp-naaa/中理2025-06_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [6](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [6](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -18986,7 +18986,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-06> schema:hasPart <https://w3id.org/jp-naaa/中理2025-06_02/item>.
 <https://w3id.org/jp-naaa/中理2025-06_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [6](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [6](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -19034,7 +19034,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-07> schema:hasPart <https://w3id.org/jp-naaa/中理2025-07_01/item>.
 <https://w3id.org/jp-naaa/中理2025-07_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [7](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [7](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -19082,7 +19082,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-07> schema:hasPart <https://w3id.org/jp-naaa/中理2025-07_02/item>.
 <https://w3id.org/jp-naaa/中理2025-07_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [7](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [7](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -19130,7 +19130,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-08> schema:hasPart <https://w3id.org/jp-naaa/中理2025-08_01/item>.
 <https://w3id.org/jp-naaa/中理2025-08_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [8](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [8](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -19178,7 +19178,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-08> schema:hasPart <https://w3id.org/jp-naaa/中理2025-08_02/item>.
 <https://w3id.org/jp-naaa/中理2025-08_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [8](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [8](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -19226,7 +19226,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-09> schema:hasPart <https://w3id.org/jp-naaa/中理2025-09_01/item>.
 <https://w3id.org/jp-naaa/中理2025-09_01/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [9](1)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [9](1)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
@@ -19274,7 +19274,7 @@
 
 <https://w3id.org/jp-naaa/中理2025-09> schema:hasPart <https://w3id.org/jp-naaa/中理2025-09_02/item>.
 <https://w3id.org/jp-naaa/中理2025-09_02/item> a <https://w3id.org/jp-naaa/Item>;
-    schema:name "令和7年度 中学校理科 [9](2)" ; #短めのラベル
+    schema:name "令和7年度 中学校理科 [9](2)" ;
     cs:school <https://w3id.org/jp-cos/school/LowerSecondary> ; #学校種別
     cs:subjectArea <https://w3id.org/jp-cos/LowerSecondary/2017/理科> ; #教科
     dct:date "2025"^^xsd:gYear ; #実施年度
