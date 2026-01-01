@@ -22,5 +22,5 @@
 }
 
 span.jp-cos::before {
-  content "→ ";
+  content: "→ ";
 }
