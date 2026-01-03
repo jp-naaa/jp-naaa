@@ -12,7 +12,7 @@
 _:toplevel a void:Dataset ;
     dct:title "全国学力調査LOD"@ja ;
     dct:title "National Assessment of Academic Ability (NAAA) LOD"@en ;
-    dct:description "本データセットは、「全国学力・学習状況調査」の問題および解説等を整理した Linked Open Data（LOD）データセットです。本調査は、小学校第6学年および中学校第3学年の児童生徒が原則として全員受検する全国調査であり、平成26 (2024) 年度以降、悉皆方式で実施されています。教科は、国語・算数（数学）が毎年度、理科は3年に一度実施され、平成31 (2019) 年度（令和元年度）からは英語が加わり、英語も概ね3年に一度実施されています。"@ja ;
+    dct:description "本データセットは、「全国学力・学習状況調査」の問題や解説などを整理したLinked Open Data（LOD）データセットです。この調査は、小学校6年生と中学校3年生を対象とした全国調査で、原則として全員が受けます。2014年度以降は、対象者全員に実施する方式（悉皆方式）で行われています。国語と算数（数学）は毎年度、理科は3年に一度実施されます。さらに2019年度から英語が加わり、英語も概ね3年に一度実施されています。"@ja;
     dct:description "This dataset is a Linked Open Data (LOD) collection that organizes the test items and accompanying explanatory materials from Japan's National Academic Ability Survey (NAAA). The assessment is a nationwide census-based survey in which, in principle, all students in Grade 6 of elementary school and Grade 9 of junior high school participate, and it has been administered in this manner since AY2014. Japanese language and mathematics are assessed every year, while science is assessed once every three years. English was added in AY2019 and has also been administered approximately once every three years."@en;
     dct:publisher [
         a foaf:Project;
