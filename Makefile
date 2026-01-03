@@ -3,7 +3,7 @@ all:
 	bundle exec catttl public/dataset public/item public/item-nier public/lessonPlan public/schema public/section public/shapes public/test > public/all-`date +%Y%m%d`.ttl
 
 check:
-	pyshacl -f turtle -s `ls -1 public/shapes-*.ttl|tail -1` public/all-`date +%Y%m%d`.ttl | ./shacl_result_filter.rb
+	pyshacl -f turtle -s `ls -1 public/shapes-*.ttl|tail -1` `ls -1 public/all-*.ttl|tail -1` | ./shacl_result_filter.rb
 	./check.rb
 
 clean:
