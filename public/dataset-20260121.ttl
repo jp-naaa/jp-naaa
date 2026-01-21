@@ -104,5 +104,5 @@ _:v1.0 a void:Dataset;
     prov:qualifiedRevision [
         a prov:Revision ;
         rdfs:comment "初期公開版です。"@en;
-        rdfs:seeAlso <https://github.com/jp-naaa/jp-naaa.github.io/milestone/1>
+        rdfs:seeAlso <https://github.com/jp-naaa/jp-naaa.github.io/milestone/1?closed=1>
     ] .
