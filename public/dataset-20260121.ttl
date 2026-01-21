@@ -90,8 +90,8 @@ _:shapes-20260101 a void:Dataset;
 _:v1.0 a void:Dataset;
     pav:version "1.0" ;
     dct:issued "2026-01-22";
-    dcat:byteSize 2305733 ;
-    void:triples 28780 ;
+    dcat:byteSize 2306588 ;
+    void:triples 28804 ;
     void:dataDump naaa:all-20260122.ttl ;
     void:subset _:dataset-20260121,
         _:item-20251231,
