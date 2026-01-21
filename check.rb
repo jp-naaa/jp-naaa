@@ -40,7 +40,7 @@ if $0 == __FILE__
   if not missing.empty?
     puts "Missing definition for object(s):"
     missing.sort.each do |object|
-      next if object =~ %r[\Ahttps://w3id.org/jp-naaa/\w+-\d{8}\.ttl\z]
+      next if object =~ %r[\Ahttps://w3id.org/jp-naaa/[\w\-]+-\d{8}\.ttl\z]
       p object
     end
   end
