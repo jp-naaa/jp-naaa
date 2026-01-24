@@ -43,7 +43,7 @@ jobs:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Build with ttl2html
         run: |
-          bundle exec ttl2html `ls public/all-*.ttl|sort|tail -1`
+          bundle exec ttl2html `ls -1 public/all-*.ttl|sort|tail -1`
       - name: Upload artifact (for Pages)
         uses: actions/upload-pages-artifact@v4
         with:
