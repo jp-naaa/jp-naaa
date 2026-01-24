@@ -25,7 +25,7 @@ function extract_triples(triples) {
 }
 
 let fetcher = new window.ldfetch();
-function fetch_jp_cos(url, elem) {
+async function fetch_jp_cos(url, elem) {
   let main = async function () {
     const objects = await fetcher.get(url).then(response =>
       extract_triples(response.triples)
@@ -44,12 +44,12 @@ function fetch_jp_cos(url, elem) {
           if (literal.lang == "ja") {
             parent.innerHTML += ` <span class="jp-cos name">${literal.value}</span>`;
           }
-        };
+        }
       }
-    };
+    }
   };
-    try {
-    main();
+  try {
+    await main();
   } catch (e) {
     console.error(e);
   }
